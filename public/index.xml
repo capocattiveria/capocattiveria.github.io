@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on N!co</title>
+    <link>https://nicofiorini.xyz/</link>
+    <description>Recent content in Home on N!co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Sep 2021 11:04:42 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pomodoro timer con Arduino</title>
+      <link>https://nicofiorini.xyz/posts/03_pomodoro_timer/</link>
+      <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/posts/03_pomodoro_timer/</guid>
+      <description>Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo a farmi un programma non riesco a seguirlo per più di due o tre giorni.
+Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una tecnica semplice e poco efficace. Stufo della situazione, mi sono ritrovato su You Tube in cerca di tecniche per un&amp;rsquo;organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da 8 a 10 ore al giorno, cioè la tecnica del Pomodoro.</description>
+    </item>
+    
+    <item>
+      <title>Grafo bipartito</title>
+      <link>https://nicofiorini.xyz/universita/01_grafo_bipartito/</link>
+      <pubDate>Sun, 19 Sep 2021 10:14:30 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/universita/01_grafo_bipartito/</guid>
+      <description>Problema di algoritmi svolto e formalizzato:
+Grafo</description>
+    </item>
+    
+    <item>
+      <title>Il Tempo</title>
+      <link>https://nicofiorini.xyz/posts/02_il-tempo/</link>
+      <pubDate>Thu, 05 Aug 2021 21:21:28 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/posts/02_il-tempo/</guid>
+      <description>Una volta provai a pensare alla natura del tempo, ovviamente non sono giunto ad una conclusione e credo non mi sono nemmeno avvicinato a capirlo. Intuitivamente il tempo è una misura di quanto frequentemente accadono degli eventi. Banalmente lo scoccare della lancetta dei secondi è un evento, un evento che accade regolamente. Eventi che accadono regolarmente ci permettono di avere una percezione più accurata del tempo, come il sorgere del sole, il cambiamento delle stagioni.</description>
+    </item>
+    
+    <item>
+      <title>Lo Sambuco</title>
+      <link>https://nicofiorini.xyz/posts/01_lo-sambuco/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicofiorini.xyz/posts/01_lo-sambuco/</guid>
+      <description>Tratto da una storia vera, alcune frasi sono in dialetto ciociaro, non fate caso agli eventuali errori grammaticali.
+Era una giornata di primavera, ero adolescente, pochi pensieri per la testa, e mi bastava andare in giro per essere sereno. Credo fosse una giornata di Aprile, quando io ed un mio amico andammo a fare un giro in motorino. Il sole ci portò a rilassarci vicino ad una fontana a pochi chilometri da casa, la cosidetta &amp;ldquo;fontana dello sambuco&amp;rdquo;, una fontana con delle vasche dove una volta facevano il bucato.</description>
+    </item>
+    
+    <item>
+      <title>La mia libreria</title>
+      <link>https://nicofiorini.xyz/books/my_book/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicofiorini.xyz/books/my_book/</guid>
+      <description>Questa è una lista dei miei libri, non li ho letti ancora tutti, e forse alcuni non li leggerò mai. Quelli etichettati con e-book li ho letti sul kindle. Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
+Saggi e scienza  Eco- Il fascismo eterno (e-book) Yuval Noah Harari - Sapiens, Da animali a dèi Yuval Noah Harari - Homo deus, Breve storia del futuro Yuval Noah Harari - 21 lezioni per il XXI secolo James Clear - Atomic habits (e-book) Cal Newport- Deep Work(e-book) Nassim Nicholas Taleb - Giocati dal caso(e-book) Nassim Nicholas Taleb - Antifragile Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali(e-book) Desmond Morris - La scimmia nuda Sacks - L&amp;rsquo;uomo che scambiò sua mogle per un cappello Freud - L&amp;rsquo;interpretazione dei sogni Freud - Introduzione alla psicoanalisi Darwin - L&amp;rsquo;origine della specie Feynman - Il senso delle cose Feynman - Sei pezzi facili Feynman - Il piacere di scoprire(e-book) Cartesio - Discorso sul metodo Einstein - Il significato della relatività/ Il mondo come io lo vedo Carlo Rovelli- Sette brevi lezioni di fisica (e-book) Carlo Rovelli - L&amp;rsquo;ordine del tempo Carlo Rovelli - La realtà non è come ci appare (e-book) Martin Davis - Il calcolatore universale Stephen W.</description>
+    </item>
+    
+    <item>
+      <title>Fourier series visualization</title>
+      <link>https://nicofiorini.xyz/universita/fourier/</link>
+      <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/universita/fourier/</guid>
+      <description>Questo è un mini progetto fatto per un esame di Reti di Calcolatori, in realtà per l&amp;rsquo;esame l&amp;rsquo;applicazione girava su un server puramente per scopo didattico, qui riporto per semplicità l&amp;rsquo;applicazione che gira solo sul lato client.
+Fourier series visualization</description>
+    </item>
+    
+    <item>
+      <title>Super Mario Bros 3</title>
+      <link>https://nicofiorini.xyz/universita/02_super_mario/</link>
+      <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/universita/02_super_mario/</guid>
+      <description>Me and two other students, (Giuseppe Alfieri and Jacopo Saccocci) we have replicated a level of super mario bros 3. It was made with C++ and Qt frameworks, the source code is on my github. You can download and play at the following link: download here(for windows, only 64 bits)
+  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nicofiorini.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicofiorini.xyz/about/</guid>
+      <description>Mi chiamo Nico Fiorini, questo è un blog personale in cui scriverò cose riguardanti il mio percorso di studi, hobby, libri, sport, riflessioni personali e tutto ciò che mi interessa.
+Ho creato questo blog per sfogo e crescita personale, in quanto non sono molto bravo a scrivere, e colgo l&amp;rsquo;occasione di migliorare condividendo ciò che faccio, sperando che qualcuno le trovi interessanti.</description>
+    </item>
+    
+  </channel>
+</rss>

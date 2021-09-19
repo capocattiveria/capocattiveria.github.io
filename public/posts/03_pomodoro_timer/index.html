@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>N!co</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="icon" href="/logo.png">
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> 
+    
+  </head>
+
+  <body>
+    <span style=""></span>
+    <Span style="float:left;color:red;font-size:250%;font-weight:bold">N!co</span>
+    <nav>
+    <ul class="menu">
+      
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/categories/">Categories</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/index.xml">rss</a></li>
+      
+    </ul>
+    </nav>
+    <hr/>
+
+<div class="article-meta">
+<h1><span class="title">Pomodoro timer con Arduino</span></h1>
+
+<h2 class="date">2021/09/19</h2>
+</div>
+
+<main>
+<p>Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo
+a farmi un programma non riesco a seguirlo per più di due o tre giorni.<br>
+Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una
+tecnica semplice e poco efficace. Stufo della situazione,
+mi sono ritrovato su You Tube in cerca di tecniche
+per un&rsquo;organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una
+che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da
+8 a 10 ore al giorno, cioè la tecnica del Pomodoro.</p>
+<p>Questa tecnica consiste nel:</p>
+<ul>
+<li>Studiare per  \(x\)  minuti</li>
+<li>Riposarsi per \(y\) minuti</li>
+</ul>
+<p>In genere questa tecnica viene descritta con \(x = 25\) e \(y=5\), però a me non piace, così utilizzo la
+variante con \(x=60\) e \(y=10\).</p>
+<p>Ci sono varie applicazioni per lo smartphone per utilizzare questa tecnica, però avere
+un&rsquo;arma di distrazione vicinomentre studio è controproducente, in più
+risulta molto macchinoso sbloccare il telefono e far partire il timer.</p>
+<p>Ho cercato una soluzione più efficiente, avrei potuto comprare un
+timer fisico, oppure costruirmi un timer fisico, e da futuro ingegnere informatico (si spera) ho
+optato per la seconda opzione.</p>
+<p>Sono un principiante, quindi ho sfruttato l&rsquo;occasione per iniziare a giocherellare con Arduino, ed ho
+visto più o meno cosa potevo fare con quello che avevo a disposizione.</p>
+<h2 id="materiale-utilizzato">Materiale utilizzato</h2>
+<ul>
+<li>Arduino nano</li>
+<li>Lcd display 16x2</li>
+<li>3 pulsanti</li>
+<li>1 led</li>
+<li>Potenziometro 10k</li>
+<li>3 resistenze 10k\(\Omega\) (resistenze di pull down, utilizzate per i pulsanti)</li>
+<li>2 resistenze 220\(\Omega\)</li>
+<li>Sensore di temperatura DHT11</li>
+<li>Buzzer</li>
+<li>2 basette millefori</li>
+<li>1 led</li>
+</ul>
+<h2 id="link-utili">Link utili</h2>
+<p>Lascio dei link utili in caso volete costruirvi un Pomodoro timer anche voi.</p>
+<ul>
+<li><a href="https://www.circuitbasics.com/arduino-basics-controlling-led/">Per accendere il primo led</a></li>
+<li><a href="https://www.circuitbasics.com/arduino-basics-installing-software/">Installare l&rsquo;IDE di Arduino</a></li>
+<li><a href="https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45">Suonare il buzzer</a></li>
+<li><a href="https://www.circuitbasics.com/how-to-set-up-an-lcd-display-on-an-arduino/">Controllare il display Lcd</a></li>
+<li><a href="https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/">Utilizzare il sensore di temperatura</a></li>
+</ul>
+<p>Lascio anche il mio codice sorgente, potete prenderlo come spunto, ma consiglio di non seguirlo,
+è un po' incasinato, non ho avuto tempo di migliorarlo, e per far funzionare il tutto dovete rispettare
+la pedinatura che ho utilizzato io, quindi vi consiglio di cablarlo e programmarvelo da soli.
+Sono un principiante anche io, quindi se ci sono riuscito io può riuscirci chiunque.</p>
+<ul>
+<li><a href="https://github.com/flowibbia/Pomodoro_timer">Il mio codice</a></li>
+</ul>
+<h2 id="risultato-finale">Risultato finale</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/P7QSWMfIgH" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+</main>
+
+Author: <span class="author">Nico Fiorini</span>
+  <footer>
+  
+  
+  <hr/>
+  <a href="https://nicofiorini.xyz">Nico Fiorini</a> | <a href="https://github.com/flowibbia">Github</a> | <a href="https://instagram.com/nico.fiorini">Instagram</a>
+  
+  </footer>
+  </body>
+</html>
+
