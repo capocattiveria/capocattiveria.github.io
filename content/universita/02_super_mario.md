@@ -5,6 +5,7 @@ author: "Nico Fiorini"
 categories: 
   - Universita
 tags: 
+  - All
   - C++
   - Programming 
 slug: 02_super_mario

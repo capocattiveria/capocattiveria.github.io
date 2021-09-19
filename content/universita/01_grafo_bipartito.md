@@ -5,6 +5,7 @@ author: "Nico Fiorini"
 categories: 
   - Universita
 tags: 
+  - All
   - Math
 slug: 01_grafo_bipartito
 draft: false
