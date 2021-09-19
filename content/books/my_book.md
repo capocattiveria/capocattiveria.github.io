@@ -1,13 +1,14 @@
 ---
-title: "My_book"
+title: "La mia libreria"
 author: "Nico Fiorini"
-date: '2021-09-18'
+date: '2021-03-22'
 categories: 
-  - Books
+  - All
+  - Blog
 tags: 
   - Books
-  - my self
-slug: 
+  - My self
+slug: "My_book"
 draft: false
 ---
 

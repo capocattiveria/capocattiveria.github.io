@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>fourier terms</title>
+	<link href="style.css" rel="stylesheet">
+
+
+	<script src="libraries/p5.js"></script>
+
+	<script src="libraries/p5.dom.js"></script>
+
+</head>
+
+<body>
+
+	<h1>Play with Sines</h1>
+
+	<p>This project was inspired by the following article 
+		<a href="https://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/">Purrier Series</a><br>
+		The purpose of this project is just to play with sines, from the article linking above, 
+		you can see that you can approximate periodic function with sums of sines.
+		If you can't see the beautiful of the sine function, you are sinner my friend, it is thanks to this function 
+		that you can read this web page with your computer or smartphone. 
+
+		A trivial sines is composed from an amplitude and a frequency -also a phase, but I didn't feel like writing 
+		an extra code- below you can see graphically how multiple sines
+		are added togheter, and if you put right fourier coefficient for a function, you can approximate it.
+		<br>
+		Actually, another coefficient was also needed, but we don't care, we want only play with sines.
+		<br>
+
+		With the properly coefficient we can obtain a lot of signal, signal that we use to communicate in the virtual 
+		world. 
+
+	</p>
+
+	<h2>How to play</h2>
+	<p>
+
+		From the button rectangle wave and triangle wave, you get 15 coefficient for the relative function.<br>
+		You can also insert custom coefficient,  
+		the amplitude is expressed in pixel and if the coefficient is too small, scale all coefficient multiplying for the same 
+		factor.<br>
+		The n box is for the n-th coefficient and is a multiple of the fundamental frequency f0, don't worry for the value of this, 
+		it is irrelevant for the shape of the function.
+
+	</p>
+
+	<div class="center">
+
+	<form class="form" id="myForm">
+		<label for="amplitude">Amplitude:</label>
+
+		<input type="number" id="amplitude" step="0.01" name="amplitude" min="0" max="400">
+
+		<label for="n_th">n-th:</label>
+
+		<input type="number" id="nth" name="nth" min="0" max="400">
+
+		<button id="submit">Submit</button>
+	</form>
+
+	<button id="rectangular" type="submit" onclick="rectangular()"> rectangle wave </button>
+	<button id="triangular" type="submit"  onclick="triangular()">triangle wave</button>
+	<button id="reset" type="submit" onclick="reset()"> reset </button>
+
+
+</div>
+
+	<script src="sketch.js"></script>
+
+</body>
+
+</html>

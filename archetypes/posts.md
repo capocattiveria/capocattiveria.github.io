@@ -4,8 +4,9 @@ date: {{ .Date }}
 author: "Nico Fiorini"
 categories: 
   - Blog
+  - All
 tags: 
   - boh
-slug: Example
+slug: {{ replace .Name "-" " " | title }}
 draft: true
 ---

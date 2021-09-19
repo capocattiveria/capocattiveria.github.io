@@ -1,0 +1,41 @@
+html {
+  color:#ecece6;
+  background-color:#282a36;
+  font-size: 18px; /* px means "pixels": the base font size is now 10 pixels high  */
+}
+
+h1 {
+  text-align: center;
+  color:rgb(67, 226, 62);
+}
+.center{
+  text-align: center;
+  color:rgb(42, 231, 222);
+}
+
+a {
+  color:rgb(233, 245, 75);
+  text-decoration: none;
+}
+a:hover{
+  color:rgb(221, 36, 36);
+}
+
+body{
+  width: 100%;
+  max-width: 1200px;
+  padding: 30px;
+  margin: 0 auto;
+  background-color: #282a36;
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+p{
+  line-height: 1.5;
+}

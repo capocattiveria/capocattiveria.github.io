@@ -3,10 +3,12 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: "Nico Fiorini"
 categories: 
-  - Books
+  - All
+  - Blog
+
 tags: 
-  - Boh
-slug: Example
+  - Books
+slug: {{ replace .Name "-" " " | title }}
 draft: true
 ---
 

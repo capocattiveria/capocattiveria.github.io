@@ -1,12 +1,13 @@
 ---
 title: "Lo Sambuco"
 author: "Nico Fiorini"
-date: '2021-09-18'
+date: '2021-04-19'
 categories: 
+  - All
   - Blog
 tags: 
-  - "Racconto"
-slug: Example
+  - Aneddoti
+slug: ""
 draft: false
 ---
 
