@@ -8,7 +8,7 @@ categories:
 tags: 
   - Thought
 slug: Ambizione
-draft: false 
+draft: true
 ---
 
 > Ho odiato ogni minuto di allenamento, ma mi sono detto,
