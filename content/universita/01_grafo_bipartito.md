@@ -12,4 +12,4 @@ draft: false
 
 Problema di algoritmi svolto e formalizzato:
 
-[Grafo](/pdf/01_grafo_bipartito.pdf)
+[Grafo](/pdf/01_bipartite.pdf)
