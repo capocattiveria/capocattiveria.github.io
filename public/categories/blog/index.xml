@@ -6,7 +6,17 @@
     <description>Recent content in Blog on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:04:42 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 15:05:48 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambizione</title>
+      <link>https://nicofiorini.xyz/posts/ambizione/</link>
+      <pubDate>Sun, 19 Sep 2021 15:05:48 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/posts/ambizione/</guid>
+      <description> Ho odiato ogni minuto di allenamento, ma mi sono detto, &amp;ldquo;Non smettere. Soffri ora e vivi il resto della tua vita come un campione&amp;rdquo;
+ </description>
+    </item>
+    
     <item>
       <title>Pomodoro timer con Arduino</title>
       <link>https://nicofiorini.xyz/posts/03_pomodoro_timer/</link>
