@@ -6,17 +6,7 @@
     <description>Recent content in Universita on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 10:14:30 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/categories/universita/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Grafo bipartito</title>
-      <link>https://nicofiorini.xyz/universita/01_grafo_bipartito/</link>
-      <pubDate>Sun, 19 Sep 2021 10:14:30 +0200</pubDate>
-      
-      <guid>https://nicofiorini.xyz/universita/01_grafo_bipartito/</guid>
-      <description>Problema di algoritmi svolto e formalizzato:
-Grafo</description>
-    </item>
-    
+    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/categories/universita/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourier series visualization</title>
       <link>https://nicofiorini.xyz/universita/fourier/</link>
@@ -35,6 +25,15 @@ Fourier series visualization</description>
       <guid>https://nicofiorini.xyz/universita/02_super_mario/</guid>
       <description>Me and two other students, (Giuseppe Alfieri and Jacopo Saccocci) we have replicated a level of super mario bros 3. It was made with C++ and Qt frameworks, the source code is on my github. You can download and play at the following link: download here(for windows, only 64 bits)
   </description>
+    </item>
+    
+    <item>
+      <title>Grafo bipartito</title>
+      <link>https://nicofiorini.xyz/universita/01_grafo_bipartito/</link>
+      <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/universita/01_grafo_bipartito/</guid>
+      <description>Problema di algoritmi svolto e formalizzato: Grafo</description>
     </item>
     
   </channel>

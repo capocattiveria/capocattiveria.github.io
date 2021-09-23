@@ -1,6 +1,6 @@
 ---
 title: "Grafo bipartito"
-date: 2021-09-19T10:14:30+02:00
+date: 2020-08-04T10:14:30+02:00
 author: "Nico Fiorini"
 categories: 
   - Universita
@@ -12,5 +12,4 @@ draft: false
 ---
 
 Problema di algoritmi svolto e formalizzato:
-
 [Grafo](/pdf/01_bipartite.pdf)

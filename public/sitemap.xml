@@ -26,21 +26,6 @@
     <loc>https://nicofiorini.xyz/tags/</loc>
     <lastmod>2021-09-19T11:04:42+02:00</lastmod>
   </url><url>
-    <loc>https://nicofiorini.xyz/tags/all/</loc>
-    <lastmod>2021-09-19T10:14:30+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini.xyz/universita/01_grafo_bipartito/</loc>
-    <lastmod>2021-09-19T10:14:30+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini.xyz/tags/math/</loc>
-    <lastmod>2021-09-19T10:14:30+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini.xyz/categories/universita/</loc>
-    <lastmod>2021-09-19T10:14:30+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini.xyz/universita/</loc>
-    <lastmod>2021-09-19T10:14:30+02:00</lastmod>
-  </url><url>
     <loc>https://nicofiorini.xyz/tags/books/</loc>
     <lastmod>2021-08-05T21:21:28+02:00</lastmod>
   </url><url>
@@ -68,14 +53,29 @@
     <loc>https://nicofiorini.xyz/universita/fourier/</loc>
     <lastmod>2020-11-03T12:01:53+02:00</lastmod>
   </url><url>
+    <loc>https://nicofiorini.xyz/tags/math/</loc>
+    <lastmod>2020-11-03T12:01:53+02:00</lastmod>
+  </url><url>
     <loc>https://nicofiorini.xyz/tags/programming/</loc>
     <lastmod>2020-11-03T12:01:53+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini.xyz/categories/universita/</loc>
+    <lastmod>2020-11-03T12:01:53+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini.xyz/universita/</loc>
+    <lastmod>2020-11-03T12:01:53+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini.xyz/tags/all/</loc>
+    <lastmod>2020-10-29T10:37:26+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini.xyz/tags/c&#43;&#43;/</loc>
     <lastmod>2020-10-29T10:37:26+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini.xyz/universita/02_super_mario/</loc>
     <lastmod>2020-10-29T10:37:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini.xyz/universita/01_grafo_bipartito/</loc>
+    <lastmod>2020-08-04T10:14:30+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini.xyz/about/</loc>
   </url>

@@ -17,24 +17,6 @@
     </item>
     
     <item>
-      <title>All</title>
-      <link>https://nicofiorini.xyz/tags/all/</link>
-      <pubDate>Sun, 19 Sep 2021 10:14:30 +0200</pubDate>
-      
-      <guid>https://nicofiorini.xyz/tags/all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Math</title>
-      <link>https://nicofiorini.xyz/tags/math/</link>
-      <pubDate>Sun, 19 Sep 2021 10:14:30 +0200</pubDate>
-      
-      <guid>https://nicofiorini.xyz/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Books</title>
       <link>https://nicofiorini.xyz/tags/books/</link>
       <pubDate>Thu, 05 Aug 2021 21:21:28 +0200</pubDate>
@@ -71,11 +53,29 @@
     </item>
     
     <item>
+      <title>Math</title>
+      <link>https://nicofiorini.xyz/tags/math/</link>
+      <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>https://nicofiorini.xyz/tags/programming/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
       
       <guid>https://nicofiorini.xyz/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All</title>
+      <link>https://nicofiorini.xyz/tags/all/</link>
+      <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini.xyz/tags/all/</guid>
       <description></description>
     </item>
     
