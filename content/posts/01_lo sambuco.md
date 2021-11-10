@@ -25,7 +25,7 @@ Chiacchierando il tempo passò in fretta, una cazzata tira l'altra, quando ad un
 un anziano signore. Immaginatevi un signore sulla sessantina, capelli bianchi, alto forse un metro e
 sessanta, addominali nascosti bene, e non ricordo molto altro perciò date sfogo alla fantasia, tanto non sono
 i dettagli che contano, ma la sensazione che trasmetteva quell'uomo, una sensazione di inettitudine.
-Comunque, arrivò questo signore e le nostre cazzate smettorono di uscire dalle
+Comunque, arrivò questo signore e le nostre cazzate smetterono di uscire dalle
 nostre bocche e iniziammo ad osservare lo sconosciuto sperando che si sarebbe fermato solo per bere,
 in modo da poter ritornare a parlare senza disagio. Questo non successe, il signore si fermò e mormorò
 qualcosa, ma non lo ascoltai - infatti non ricordo cosa disse - perchè notai una cosa che stimolò il mio ego, anzi che lo esaltò.

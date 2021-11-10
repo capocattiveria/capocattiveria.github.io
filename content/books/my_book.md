@@ -61,6 +61,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Haruki Murakami - L'arte di correre
 * Haruki Murakami - La strana biblioteca(e-book)
 * Haruki Murakami - Kafka sulla spiaggia(e-book)
+* Haruki Murakami - After dark
 * Herman Hesse - Siddartha(e-book)
 * Sallinger - Il giovane Holden
 * Chuck Palahniuk - Fight Club
