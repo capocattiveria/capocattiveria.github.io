@@ -6,13 +6,22 @@
     <description>Recent content in Categories on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:04:42 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nicofiorini.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
       <link>https://nicofiorini.xyz/categories/all/</link>
-      <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nicofiorini.xyz/categories/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://nicofiorini.xyz/categories/tips/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicofiorini.xyz/categories/tips/</guid>
       <description></description>
     </item>
     
