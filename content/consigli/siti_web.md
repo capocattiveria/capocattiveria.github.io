@@ -11,8 +11,12 @@ draft: false
 ---
 
 Ormai, la maggior parte delle cose che imparo vengono dal web, quindi
-in questa sezione ho pensato di mettere dei siti web che ho trovato interessanti:
+in questa sezione ho pensato di mettere dei siti web che ho trovato interessanti.
 
-* [intmath](https://www.intmath.com/) Questo sito l'ho trovato molto utile
-  per ripassare dei concetti matematici che stavo dimenticando.
-* [The Feynman Lecure](https://www.feynmanlectures.caltech.edu/)
+
+* [intmath](https://www.intmath.com/): Questo sito l'ho trovato molto utile
+  per ripassare dei concetti matematici che stavo dimenticando, non ci sono spiegazioni troppo dettagliate,
+  però è un sito molto semplice e minimale, anche con delle parti interattive che danno un senso più concreto
+  a cosa si sta studiando.
+* [The Feynman Lecure](https://www.feynmanlectures.caltech.edu/).
+
