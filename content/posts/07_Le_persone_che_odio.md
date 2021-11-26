@@ -12,6 +12,8 @@ slug:
 draft: false
 ---
 
+**Warning: leggere con tono scherzoso**
+
 Quando frequentavo le scuole medie ero una persona molto diversa, ed è giusto che sia così,
 avevo 10 anni in meno, ero molto ingenuo, infatti mi ricordo di una volta in cui dissi:
 "**A me non mi sta sul cazzo nessuno**". 
