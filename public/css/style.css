@@ -9,6 +9,11 @@ body {
   padding: 1em;
   line-height: 1.5em;
 }
+
+strong {
+  color: rgb(255,0,0);
+}
+
 h1{
   font-size: 200%;
   text-align: center;
