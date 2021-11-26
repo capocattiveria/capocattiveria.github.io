@@ -1,5 +1,5 @@
 ---
-title: "Tipi di persone che odio"
+title: "Le persone che odio"
 date: 2021-11-26T15:11:08+01:00
 author: "Nico Fiorini"
 categories: 
@@ -12,10 +12,11 @@ slug:
 draft: false
 ---
 
-**Warning: leggere con tono scherzoso**
+**Warning: Non prendere seriamente e leggere con tono scherzoso**
 
-Quando frequentavo le scuole medie ero una persona molto diversa, ed è giusto che sia così,
-avevo 10 anni in meno, ero molto ingenuo, infatti mi ricordo di una volta in cui dissi:
+Quando frequentavo le scuole medie ero una persona molto diversa,
+ed è giusto che sia così, avevo 10 anni in meno, ero molto ingenuo,
+infatti mi ricordo di una volta in cui dissi:
 "**A me non mi sta sul cazzo nessuno**". 
 
 Beh, da quel momento credo che Cristo mi ha maledetto,
@@ -31,7 +32,9 @@ Questa è una di quelle categorie che più disprezzo, posso capire disturbi alim
 però nella maggior parte dei casi non c'è il disturbo alimentare, è qualcosa di più grave, **l'infamità**.
 
 Ipotizziamo una persona che non magna de coro in uno scenario classico di vita quotidiana, e chiamiamo questo
-cristiano Giuda per semplicità.
+cristiano "Giuda" per semplicità.
+
+Lo scenario è questo: 
 
 Mi trovo a pranzo con Giuda, e mentre io mi accingo a mangiare, Giuda guarda con disprezzo il piatto
 come per dire "Preferirei un'altra cosa da mangiare". Ecco, Giuda può anche andare all'inferno per me.
@@ -46,8 +49,6 @@ A parte il gesto di essere schizzinosi nei confronti del cibo, ma una persona de
 ispira fiducia, la vedo come una persona che non si accontenta, una persona del genere è capace anche di non 
 mangiare se quel cibo non lo convince. Lo vedo come un atto di infamità di un infame nei confronti della vita.
 
-Ovviamente se non si accontenta nei confronti del cibo, non vuol dire che non si accontenta di altre
-cose in generale, però la sensazione di persona viziata me la dai.
 
 ## 2) Le persone che si offendono.
 
