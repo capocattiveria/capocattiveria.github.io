@@ -17,10 +17,11 @@ avevo 10 anni in meno, ero molto ingenuo, infatti mi ricordo di una volta in cui
 "**A me non mi sta sul cazzo nessuno**". 
 
 Beh, da quel momento credo che Cristo mi ha maledetto,
-ogni genere di persona ha iniziato ad andarmi in puzza, c'è stato un continuo cambiamento del mio carattere,
-che mi ha portato a farmi stare sul cazzo ogni genere di persona.
+e ogni genere di persona ha iniziato ad andarmi in puzza, c'è stato un continuo cambiamento nel mio carattere,
+che ha portato a farmi stare sul cazzo ogni genere di persona.
 
-Riporto due motivi motivati di due tipi di persone che mi stanno altamente sul cazzo.
+In seguito riporto due motivi motivati che mi portano ad odiare una persona, ce ne sono tanti altri,
+però questi sono motivi seri.  
 
 ## 1) Le persone che non magnano de coro.
 
@@ -64,7 +65,10 @@ Ora, questo evento può accadere
 Nel primo caso puoi benissimo pensare "Ho sbagliato e sono un deficiente". 
 Nel secondo caso il deficiente è un'altro o altri, quindi non vedo il motivo per cui
 devi rimanere toccato. 
-Nel terzo caso, è la vita e certe volta fa schifo, quindi fattene una ragione.
+Nel terzo caso invece, è la vita e certe volta fa schifo, quindi fattene una ragione.
+
+
+## Conclusione
 
 Ora non reputo l'offesa un reato, però quando una persona ci rimane sempre male per troppe cose, è
 spesso per colpa sua, e vedo mancanza di autocritica, e per questo mi sta sul cazzo.
