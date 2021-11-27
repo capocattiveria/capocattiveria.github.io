@@ -6,7 +6,7 @@ categories:
   - Blog
   - All
 tags: 
-  - boh
+  - Arduino
 slug: 03_pomodoro_timer
 draft: false
 ---

@@ -7,6 +7,9 @@ title: Home
 # Welcome to my website
 
 Mi chiamo Nico, al momento sono uno studente di Ingegneria informatica, ed in questo luogo posterò progetti,
-riflessioni, ed altre cose personali, date un'occhiata in giro, probabilmente troverete qualcosa di interessante, oppure pensieri di uno scemo che non ha niente da fare.
+riflessioni, ed altre cose personali, date un'occhiata in giro, probabilmente troverete qualcosa di interessante,
+oppure pensieri di uno scemo che non ha niente da fare.
+
+
 
 ## All post

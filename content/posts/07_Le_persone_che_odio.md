@@ -7,7 +7,7 @@ categories:
   - All
 tags: 
   - My self
-  - Tought
+  - Thought
 slug: 
 draft: false
 ---

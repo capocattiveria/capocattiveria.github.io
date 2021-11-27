@@ -17,15 +17,15 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 
 ## Saggi e scienza
 
-* Eco- Il fascismo eterno (e-book)
+* Eco- Il fascismo eterno **(e-book)**
 * Yuval Noah Harari - Sapiens, Da animali a dèi
 * Yuval Noah Harari - Homo deus, Breve storia del futuro
 * Yuval Noah Harari - 21 lezioni per il XXI secolo
-* James Clear - Atomic habits (e-book)
+* James Clear - Atomic habits **(e-book)**
 * Cal Newport- Deep Work(e-book)
-* Nassim Nicholas Taleb - Giocati dal caso(e-book)
+* Nassim Nicholas Taleb - Giocati dal **(e-book)**
 * Nassim Nicholas Taleb - Antifragile
-* Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali(e-book)
+* Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali**(e-book)**
 * Desmond Morris - La scimmia nuda
 * Sacks - L'uomo che scambiò sua mogle per un cappello
 * Freud - L'interpretazione dei sogni
@@ -33,12 +33,12 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Darwin - L'origine della specie
 * Feynman - Il senso delle cose
 * Feynman - Sei pezzi facili
-* Feynman - Il piacere di scoprire(e-book)
+* Feynman - Il piacere di scoprire **(e-book)**
 * Cartesio - Discorso sul metodo
 * Einstein - Il significato della relatività/ Il mondo come io lo vedo
-* Carlo Rovelli- Sette brevi lezioni di fisica (e-book)
+* Carlo Rovelli- Sette brevi lezioni di fisica **(e-book)**
 * Carlo Rovelli - L'ordine del tempo
-* Carlo Rovelli - La realtà non è come ci appare (e-book)
+* Carlo Rovelli - La realtà non è come ci appare **(e-book)**
 * Martin Davis - Il calcolatore universale
 * Stephen W. Hawking - La teoria del tutto
 * Mondo matematico - I numeri primi
@@ -51,7 +51,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 
 ## Narrativa
 
-* Albert Camus - Lo straniero (e-book)
+* Albert Camus - Lo straniero **(e-book)**
 * Cesare Pavese - Il mestiere di vivere
 * Cesare Pavese - Le poesie
 * Cesare Pavese - La luna e i falò
@@ -59,21 +59,21 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Haruki Murakami - Nel segno della pecora
 * Haruki Murakami - Dance Dance Dance
 * Haruki Murakami - L'arte di correre
-* Haruki Murakami - La strana biblioteca(e-book)
-* Haruki Murakami - Kafka sulla spiaggia(e-book)
+* Haruki Murakami - La strana biblioteca **(e-book)**
+* Haruki Murakami - Kafka sulla spiaggia **(e-book)**
 * Haruki Murakami - After dark
-* Herman Hesse - Siddartha(e-book)
+* Herman Hesse - Siddartha **(e-book)**
 * Sallinger - Il giovane Holden
 * Chuck Palahniuk - Fight Club
-* Chuck Palahniuk - Soffocare (e-book)
+* Chuck Palahniuk - Soffocare **(e-book)**
 * George Orwell - La fattoria degli animali
 * George Orwell - 1984
 * Golding - Il signore delle mosche
 * Verga - I malavoglia
 * Baricco - The game
 * Baricco - Castelli di rabbia
-* Gabriele Romagnoli - Solo bagaglio a mano (e-book)
-* Erri De Luca - Il peso della farfalla (e-book)
+* Gabriele Romagnoli - Solo bagaglio a mano **(e-book)**
+* Erri De Luca - Il peso della farfalla **(e-book)**
 * Franz Kafka - Il processo
 * Franz Kafka - La metamorfosi e tutti gli altri racconti pubblicati in vita
 * Andrea G. Pinketts - L'ultimo dei neuroni
@@ -86,12 +86,14 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Jack London - Il vagabondo delle stelle
 * Jack London - Il popolo dell'abisso
 * Jack London - Il tallone di ferro
+* Jack Kerouac - Sulla strada
 * Pirandello - Il fu Mattia Pascal
 * Pirandello - Uno, nessuno e centomila
 
 ## Sport, Montagna, Avventure
 
-* Kelly Starrett, Glen Cordoza - Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance
+* Kelly Starrett, Glen Cordoza - Becoming a Supple Leopard: The Ultimate Guide
+  to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance
 * Kilian Jornet - La frontiera invisibile
 * Ueli Steck - Il passo successivo
 * Reinhold Messner - La montagna nuda
@@ -119,3 +121,5 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Scott Meyers - Effective C++
 * Tanenbaum - Reti di calcolatori
 * M. Luise, G. M. Vitetta - Teoria dei segnali
+
+
