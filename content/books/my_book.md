@@ -87,6 +87,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Jack London - Il popolo dell'abisso
 * Jack London - Il tallone di ferro
 * Jack Kerouac - Sulla strada
+* James Joyce - Dedalus
 * Pirandello - Il fu Mattia Pascal
 * Pirandello - Uno, nessuno e centomila
 
@@ -112,6 +113,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Jon Krakauer - Dove gli uomini diventano eroi
 * Walter Isaacson- Steve Jobs(e-book)
 * Walter Isaacson- Einstein, la sua vita, il suo universo(e-book)
+* Matthew McConaughey - Greenligths
 
 ## Università
 
