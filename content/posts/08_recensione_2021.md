@@ -1,6 +1,6 @@
 ---
 title: "Riassunto 2021"
-date: 2021-12-30T11:14:21+01:00
+date: 2021-12-31T11:14:21+01:00
 author: "Nico Fiorini"
 categories: 
   - Blog
