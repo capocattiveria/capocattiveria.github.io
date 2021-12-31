@@ -9,7 +9,7 @@ tags:
   - My self
   - Thought
 slug: 08_recensione_2021
-draft: true
+draft: false 
 ---
 
 E' stato un anno di merda che non ha portato a quasi niente di buono, però mi sono
