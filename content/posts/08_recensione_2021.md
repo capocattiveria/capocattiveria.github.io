@@ -12,20 +12,21 @@ slug: 08_recensione_2021
 draft: false 
 ---
 
-E' stato un anno di merda che non ha portato a quasi niente di buono, però mi sono
-venute tante idee di merda che mi sono scritto e non ho sviluppato (per fortuna).
-Non le ho sviluppate per questioni di tempo e per incapacità.
+E' stato un anno di merda che non ha portato quasi niente di buono, però mi sono
+venute tante idee che mi sono scritto e non ho sviluppato per questioni di tempo e per la mia 
+incapacità.
 
-## Idee
+## Idee stupide
 
 ### Pecoraro 2021
-Avevo pensato di fare un videogioco, ovviamente un video gioco stupido, le cose serie le lascio agli
-altri. Il gioco che volevo creare consisteva in un Pastore che aveva l'obbiettivo di far rientrare
-le pecore nei loro recinti, un gioco 2D, però questo pastore aveva delle frasi ad effetto reali,
+Avevo pensato di fare un videogioco, ovviamente un videogioco stupido, le cose serie le lascio agli
+altri. Il gioco che volevo creare consiste in un Pastore che ha l'obbiettivo di far rientrare
+le pecore nei loro recinti, un gioco 2D, però questo pastore ha delle frasi ad effetto reali,
 quelle veramente usate nel mondo della pastorizia, ad esempio: 
 
 * tèèèè, te sparessene
 * fristi lloco
+* mprrr tèèè
 
 I ciociari sanno di cosa sto parlando.
 
@@ -66,16 +67,21 @@ sono divertenti. Le cose che hanno un senso non hanno senso di essere raccontate
 
 ## Le fissazioni che mi sono venute
 
-1. Ho iniziato a farmi la doccia fredda, non so se veramente fanno bene, però
-   ormai mi ci sono abituato, e risparmio il tempo di aspettare che esce l'acqua calda.
+1. Ho iniziato a farmi la doccia fredda, non so se fa veramente bene come dicono, però
+   ormai mi ci sono abituato, e risparmio il tempo che sprecherei ad aspettare l'acqua calda, inoltre,
+   non devo nemmeno bestemmiare quando l'acqua calda non uscirebbe, quindi ormai doccia fredda tutta
+   la vita.
+
 2. Mi sono allenato molto a corpo libero, non andando in palestra mi sono fatto un
    home gym a casa, una home gym di un certo livello anche.
-   {{< figure src="/images/home_gym.jpg" title="La mia home gym" class="center" height="500px" >}}
-   Questa home gym dispone di una barra troppo cicciotta da afferrare per fare i pull-up ed i muscle-up, e basta.
+   {{< figure src="/images/home_gym.jpg" title="La mia home gym" class="center" width="50%" >}}
+   Questa home gym dispone di una barra per trazioni da afferrare per fare i pull-up ed i muscle-up,
+   e basta.
+
 3. Far crescere dei bonsai, ho piantato una trentina di semi, ne sono germogliati una quindicina, e sono
-   appassiti tutti, tasso di successo dello 0%. Non è colpa mia, vogliono stare a 30 gradi, quindi
-   quando il riscaldamento globale peggiora ci riprovo.
-   {{< figure src="/images/bonsai.jpg" title="Bonsai aggressivi" class="center" height="500px" >}}
+   appassiti tutti, tasso di successo dello 0%. Non è colpa mia, i bonsai sono viziati vogliono stare a 30 gradi, 
+   quindi ci riprovo quando il riscaldamento globale peggiora.
+   {{< figure src="/images/bonsai.jpg" title="Bonsai aggressivi" class="center" width="50%px" >}}
 
 
 ## Libri letti
@@ -100,6 +106,7 @@ Comunque ho letto:
   troppo di libri appena usciti e non filtrati dal tempo 
 7. "Il tao del dragone" di Bruce Lee, libro fatto a mestiero.
 
-Non ricordo se ne ho letti altri, però se non li ricordo facevano proprio schifo.
+Non ricordo se ne ho letti altri, però se non li ricordo facevano abbastanza schifo.
+
  
  
