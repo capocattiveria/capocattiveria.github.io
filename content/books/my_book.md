@@ -22,10 +22,10 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Yuval Noah Harari - Homo deus, Breve storia del futuro
 * Yuval Noah Harari - 21 lezioni per il XXI secolo
 * James Clear - Atomic habits **(e-book)**
-* Cal Newport- Deep Work(e-book)
+* Cal Newport- Deep Work (e-book)
 * Nassim Nicholas Taleb - Giocati dal **(e-book)**
 * Nassim Nicholas Taleb - Antifragile
-* Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali**(e-book)**
+* Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali **(e-book)**
 * Desmond Morris - La scimmia nuda
 * Sacks - L'uomo che scambiò sua mogle per un cappello
 * Freud - L'interpretazione dei sogni
@@ -112,7 +112,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Jon Krakauer - Nelle terre estreme
 * Jon Krakauer - Dove gli uomini diventano eroi
 * Walter Isaacson- Steve Jobs(e-book)
-* Walter Isaacson- Einstein, la sua vita, il suo universo(e-book)
+* Walter Isaacson- Einstein, la sua vita, il suo universo **(e-book)**
 * Matthew McConaughey - Greenligths
 
 ## Università
