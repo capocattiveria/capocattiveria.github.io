@@ -1,5 +1,5 @@
 ---
-title: "La mia libreria"
+title: "La libreria di Nico"
 author: "Nico Fiorini"
 date: '2021-03-22'
 categories: 
@@ -7,7 +7,6 @@ categories:
   - Blog
 tags: 
   - Books
-  - My self
 slug: "My_book"
 draft: false
 ---

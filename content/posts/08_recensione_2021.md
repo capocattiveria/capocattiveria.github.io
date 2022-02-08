@@ -1,12 +1,11 @@
 ---
 title: "Riassunto 2021"
 date: 2021-12-31T11:14:21+01:00
-author: "Nico Fiorini"
+author: "Ibbia98"
 categories: 
   - Blog
   - All
 tags: 
-  - My self
   - Thought
 slug: 08_recensione_2021
 draft: false 

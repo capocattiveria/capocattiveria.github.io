@@ -6,20 +6,7 @@
     <description>Recent content in Tags on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 11:14:21 +0100</lastBuildDate>
-    
-	<atom:link href="https://nicofiorini.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>My self</title>
-      <link>https://nicofiorini.xyz/tags/my-self/</link>
-      <pubDate>Fri, 31 Dec 2021 11:14:21 +0100</pubDate>
-      
-      <guid>https://nicofiorini.xyz/tags/my-self/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 31 Dec 2021 11:14:21 +0100</lastBuildDate><atom:link href="https://nicofiorini.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thought</title>
       <link>https://nicofiorini.xyz/tags/thought/</link>

@@ -3,7 +3,15 @@ title: About
 author: Nico Fiorini
 ---
 
-Mi chiamo Nico Fiorini, questo è un blog personale in cui scriverò cose riguardanti il mio percorso di studi, hobby, libri, sport, riflessioni personali e tutto ciò che mi interessa.
+Perchè creare un blog quando esistono i social? 
 
-Ho creato questo blog per sfogo e crescita personale, in quanto non sono molto bravo a scrivere, e colgo l'occasione di migliorare
-condividendo ciò che faccio, e se qualcuno trova qualcosa di interessante è tanto di guadagnato.
+Beh, questo blog ci permette di essere più liberi, fondamentalmente possiamo condividere
+quel che ci pare e come ci pare, con quante bestemmie ci pare senza essere giudicati, se non vi
+piacciono i contenuti basta ignorare il blog.
+
+Chi siamo?
+
+Al momento a scrivere siamo in 3, forse siamo anche troppi: 
+* Nico Fiorini
+* Ibbia98
+* Crow

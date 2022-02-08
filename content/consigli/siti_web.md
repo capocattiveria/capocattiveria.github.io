@@ -1,9 +1,10 @@
 ---
 title: "Siti fatti a mestiero"
+author: "Nico Fiorini"
 date: '2021-11-24'
 categories: 
   - All 
-  - Tips
+  - Cose fatte a mestiero
 tags: 
   - 
 slug:
@@ -20,4 +21,3 @@ reputo fatti a mestiero.
   però è un sito molto semplice e minimale, anche con delle parti interattive che danno un senso più concreto
   a cosa si sta studiando.
 * [The Feynman Lecure](https://www.feynmanlectures.caltech.edu/).
-

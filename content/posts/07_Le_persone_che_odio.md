@@ -1,12 +1,11 @@
 ---
 title: "Le persone che odio"
 date: 2021-11-26T15:11:08+01:00
-author: "Nico Fiorini"
+author: "Ibbia98"
 categories: 
   - Blog
   - All
 tags: 
-  - My self
   - Thought
 slug: 
 draft: false

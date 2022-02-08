@@ -4,7 +4,7 @@ date: {{ .Date }}
 author: "Nico Fiorini"
 categories: 
   - All 
-  - Tips
+  - Cose fatte a mestiero
 tags: 
   - 
 slug: {{ replace .Name "-" " " | title }}
