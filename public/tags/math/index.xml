@@ -6,7 +6,11 @@
     <description>Recent content in Math on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate>
+    
+	<atom:link href="https://nicofiorini.xyz/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Fourier series visualization</title>
       <link>https://nicofiorini.xyz/universita/fourier/</link>
