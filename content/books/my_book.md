@@ -22,7 +22,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Yuval Noah Harari - 21 lezioni per il XXI secolo
 * James Clear - Atomic habits **(e-book)**
 * Cal Newport- Deep Work (e-book)
-* Nassim Nicholas Taleb - Giocati dal **(e-book)**
+* Nassim Nicholas Taleb - Giocati dal caso **(e-book)**
 * Nassim Nicholas Taleb - Antifragile
 * Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali **(e-book)**
 * Desmond Morris - La scimmia nuda
