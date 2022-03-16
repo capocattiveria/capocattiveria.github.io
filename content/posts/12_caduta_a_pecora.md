@@ -31,32 +31,34 @@ Cerbero nonostante ero a conoscenza dell'animale perchè sfuggii
 alle sue grinfie già una volta, però non gli dissi niente perchè sono
 un po' bastardo dentro.
 
-Arrivati in prossimità del bastardo, la bestia era sul lato destro della
-strada, così il cane iniziò ad abbaiare ed io iniziai a pedalare forte,
-mio fratello anche si accorse del pericolo ed iniziò a pedalare anche lui come
+Arrivati in prossimità del cane infame, che si trovava sul lato destro della
+strada, iniziò ad abbaiare ed io iniziai a pedalare forte.
+Mio fratello anche si accorse del pericolo ed iniziò a pedalare anche lui come
 se non ci fosse un domani. Passammo di fianco al cane, io sulla sinistra,
 e mio fratello sulla destra, quindi il cane per logica doveva arrivare
 più vicino a mio fratello siccome veniva dal lato destro,
 però la logica non fa parte del mio mondo,
-ed il cane iniziò a correre per venirci incontro, e prese di mira me,
-riuscendo comunque a distanziarlo ed a portarci in salvo, quando ad un certo
-punto entra in gioco un altro protagonista, una pecora, spuntò dal lato sinistro della strada, iniziando
+così il cane iniziò a correre per venirci incontro, e prese di mira me, quello più lontano da lui.
+Riuscimmo comunque a distanziarlo ed a portarci in salvo, quando ad un certo
+punto entra in gioco un altro protagonista, una pecora.
+
+La pecora spuntò dal lato sinistro della strada, iniziando
 a correre spaventata dal trambusto provocato da due cinghiali antropomorfi che pedalavano
 per sfuggire da Cerbero.
 La pecora decise di parcheggiarsi saggiamente
 nella mia corsia, proprio nel momento giusto in cui io non potei
-fare a meno di evitarla, così mi sono scontrato sul fianco della pecora,
-facendomi impennare la bici dalla parte anteriore, facendo una capriola sulla pecora, che spaventata
+fare a meno di evitarla, così mi scontrai sul fianco della pecora,
+che fece impennare la bici dalla parte anteriore, e feci una capriola sulla pecora, che spaventata
 sfuggì.
-Cerberò non si preoccupò della pecora, ma indietreggiò e si
+Cerberò non si preoccupò della pecora, è un cane pastore, non gli importa niente di nulla, ma indietreggiò e si
 rivelò anche uno di quei cani che abbaia e non morde, tutto fumo e niente arrosto, un cane inutile.
 
-Morale della favola: 
-* io mi sono scorticato un'anca e le mani.
-* mio fratello si è fatto delle grasse risate.
-* forse anche Cerbero rise di me.
+## Morale della favola:
+
+* Io mi sono scorticato un'anca e le mani.
+* Mio fratello si è fatto delle grasse risate.
+* Forse anche Cerbero rise di me.
 
 Non so che ne è stato della pecora, però sono fiducioso che non si fece nulla, 
-e credo fosse già pronta ad un destino molto peggiore
-dato che tutto ciò avvenne poco prima di Pasqua.
+e credo fosse già pronta ad un destino molto peggiore dato che tutto ciò avvenne poco prima di Pasqua.
 
