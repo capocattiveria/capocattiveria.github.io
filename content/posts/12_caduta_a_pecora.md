@@ -1,7 +1,7 @@
 ---
 title: "Scontro con una pecora"
 date: 2022-03-16T09:34:38+01:00
-author: "Nico Fiorini"
+author: "Ibbia98"
 categories: 
   - Blog
   - All
@@ -18,11 +18,11 @@ Tutto ciò è successo circa due anni fa, quindi i ricordi sono quelli che sono,
 Andavo spesso in mountain bike, e mi è capitato più volte di avere a che fare con dei cani pastori,
 animali molto bastardi per natura, territoriali, non gliene importa nulla delle pecore ai cani pastore,
 però le vedono come di loro proprietà, e devono difenderle anche a costo di rompere le palle a dei poveri
-sconosciuti che si trovano a passare per caso.
+sconosciuti che si trovano a passare per caso in territorio pubblico.
 Quel giorno decisi di fare un giro in bici con mio fratello,
 dove sapevo che ci sarebbe stato un cane a rompermi le palle, un pastore maremmanno,
 un cane che da ora chiamerò **Cerbero**, perchè mi stava sul cazzo come 3 cani pastore messi insieme.  
-Pensai, "siamo in due, c'è il 50% di probabilità che corre dietro a mio fratello 
+Pensai, sbagliando, "siamo in due, c'è il 50% di probabilità che corre dietro a mio fratello 
 ed io me la svigno, tanto è tutta discesa, non credo Cerbero è capace di andare
 a più di 40 Km/h".
 
@@ -34,7 +34,9 @@ un po' bastardo dentro.
 Arrivati in prossimità del cane infame, che si trovava sul lato destro della
 strada, iniziò ad abbaiare ed io iniziai a pedalare forte.
 Mio fratello anche si accorse del pericolo ed iniziò a pedalare anche lui come
-se non ci fosse un domani. Passammo di fianco al cane, io sulla sinistra,
+se non ci fosse un domani. 
+
+Passammo di fianco al cane, io sulla sinistra,
 e mio fratello sulla destra, quindi il cane per logica doveva arrivare
 più vicino a mio fratello siccome veniva dal lato destro,
 però la logica non fa parte del mio mondo,

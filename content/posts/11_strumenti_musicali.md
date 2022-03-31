@@ -10,10 +10,6 @@ slug: 11_strumenti_musicali
 draft: false
 ---
 
-Ritengo la musica una forma d'arte che arriva a tutti, in particolare ogni
-strumento mi influenza in un modo diverso, ovviamente dipende anche dal genere
-musicale e da altri fattori, però in generale posso dire che: 
-
 * Il pianoforte tocca l'anima
 * La chitarra sveglia l'anima
 * La tromba ti gonfia l'anima
