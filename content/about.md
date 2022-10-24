@@ -5,13 +5,14 @@ author: Nico Fiorini
 
 Perchè creare un blog quando esistono i social? 
 
-Beh, questo blog ci permette di essere più liberi, fondamentalmente possiamo condividere
-quel che ci pare e come ci pare, con quante bestemmie ci pare senza essere giudicati, se non vi
-piacciono i contenuti basta ignorare il blog.
+Il blog è una forma di condivisione molto libera, facicamo quello che ci pare sul nostro blog,
+condividiamo quello che ci pare e come ci pare.
+Un blog è un giardino digitale personale, potete ammirare il giardino con occhio critico,
+lo potete ammirare, criticare, supportare, distruggere, condividere e ignorare, fate quello che vi pare. 
 
 Chi siamo?
 
-Al momento a scrivere siamo in 3, forse siamo anche troppi: 
+Al momento a scrivere siamo in 3: 
 * Nico Fiorini
 * Ibbia98
 * Crow
