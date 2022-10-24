@@ -33,7 +33,7 @@ menu:
 
 params:
   description: "Nico Fiorini's Blog"
-  footer: "[Nico Fiorini](https://flowibbia.github.io) | [Github](https://github.com/flowibbia)
+  footer: "[Nico Fiorini](https://flowibbia.github.io) | [Github](https://github.com/flowibbia)"
 
 # non so a che serviva
 # markup:
