@@ -34,5 +34,5 @@ ed in un certo senso sono contento così.
 La vita è questo schifo, si punta ad una condizione di vita migliore
 sapendo che in fondo già si sta bene.
 
-La vita per me è due panini, uno solo panino mi da un senso di insoddisfazione,
+La vita per me è due panini, un solo panino mi da un senso di insoddisfazione,
 due panini mi faranno stare male, e so che un panino e mezzo non è fattibile, non mi piacciono le vie di mezzo.
