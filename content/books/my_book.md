@@ -24,6 +24,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Cal Newport- Deep Work (e-book)
 * Nassim Nicholas Taleb - Giocati dal caso **(e-book)**
 * Nassim Nicholas Taleb - Antifragile
+* Daniel Kahneman - Pensieri lenti e veloci
 * Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali **(e-book)**
 * Desmond Morris - La scimmia nuda
 * Sacks - L'uomo che scambiò sua mogle per un cappello
@@ -54,6 +55,8 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Cesare Pavese - Il mestiere di vivere
 * Cesare Pavese - Le poesie
 * Cesare Pavese - La luna e i falò
+* Émile Zola - Sidoine e Médéric
+* Italo Calvino - Le città invisibili
 * Paolo Cognetti - Le otto montagne
 * Haruki Murakami - Nel segno della pecora
 * Haruki Murakami - Dance Dance Dance
@@ -61,6 +64,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Haruki Murakami - La strana biblioteca **(e-book)**
 * Haruki Murakami - Kafka sulla spiaggia **(e-book)**
 * Haruki Murakami - After dark
+* Haruki Murakami - I salici ciechi e la donna addormentata
 * Herman Hesse - Siddartha **(e-book)**
 * Sallinger - Il giovane Holden
 * Chuck Palahniuk - Fight Club
@@ -89,6 +93,10 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * James Joyce - Dedalus
 * Pirandello - Il fu Mattia Pascal
 * Pirandello - Uno, nessuno e centomila
+* Daniel Pennac - Storia di un Corpo ( Illustrazioni di Manu Larcenet )
+* Dino Buzzati - I Sette messaggeri
+* Dino Buzzati - Sessanta racconti
+
 
 ## Sport, Montagna, Avventure
 
@@ -104,6 +112,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Graeme Hilditch - Trail Running Dalla A alla Z
 * Giulio Sergio Roi - Skyrunning I corridori del cielo
 * Eros Grazioli - Skyrunning teoria dell'allenamento
+* Reinhold Messner - Le Alpi
 
 ## Biografie
 
@@ -117,10 +126,14 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 ## Università
 
 * Demetrescu, Finocchi, Italiano - Algoritmi e strutture dati
-* David J. Griffiths - Introduction to electrodynamics
+* P.Atzeni, S. Ceri - Basi di Dati ( 2002 edition)
+* Marco Abate - Algebra lineare
+* David J. Griffiths - Introduction to electrodynamics (4th edition)
 * Bjarne Stroustrup - Programming, Principles and practice using C++
 * Scott Meyers - Effective C++
-* Tanenbaum - Reti di calcolatori
+* Tanenbaum - Reti di calcolatori (5th edition)
+* James F. Kurose, Keith W. Ross - Internet e Reti di Calcolatori ( 1th edition)
+* Christopher Negus - Linux
+* Roger S. Pressman - Principi di Ingegneria del software ( 3th edition)
 * M. Luise, G. M. Vitetta - Teoria dei segnali
-
-
+* Ernesto Conte, Carmela Galdi - Fenomeni aleatori
