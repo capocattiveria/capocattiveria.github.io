@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['tree_166',['Tree',['../classslothLib_1_1Tree.html#ad1bb3ef8e6747000b865c55aa473996b',1,'slothLib::Tree::Tree()'],['../classslothLib_1_1Tree.html#a9c2fe8d7ac019d927997bade4a69c902',1,'slothLib::Tree::Tree(const Tree&lt; T &gt; &amp;tree)']]],
+  ['treeposvector_167',['TreePosVector',['../classslothLib_1_1TreePosVector.html#a73d262bc56c2fb95a423a4430a17b9d0',1,'slothLib::TreePosVector::TreePosVector(int maxDegree, int height)'],['../classslothLib_1_1TreePosVector.html#a7d12cd230d57703696373be4d71ec459',1,'slothLib::TreePosVector::TreePosVector(const TreePosVector&lt; T &gt; &amp;tree)']]],
+  ['treeptrlist_168',['TreePtrList',['../classslothLib_1_1TreePtrList.html#ab2f838d05f6d253e1070c00c2ccaacc4',1,'slothLib::TreePtrList::TreePtrList()'],['../classslothLib_1_1TreePtrList.html#ad7ca6a1a0d0aa31ff83b0bef42c0f25f',1,'slothLib::TreePtrList::TreePtrList(const TreePtrList&lt; T &gt; &amp;tree)']]],
+  ['trova_169',['trova',['../namespaceslothLib.html#ae93389510a5a86976b2f962390ca5f78',1,'slothLib::trova(typename std::vector&lt; Node&lt; T &gt; * &gt;::iterator begin, typename std::vector&lt; Node&lt; T &gt; * &gt;::iterator end, const T &amp;value)'],['../namespaceslothLib.html#a731077c009732b77a324b747db528e93',1,'slothLib::trova(typename std::vector&lt; Node&lt; T &gt; * &gt;::const_iterator begin, typename std::vector&lt; Node&lt; T &gt; * &gt;::const_iterator end, const T &amp;value)']]]
+];

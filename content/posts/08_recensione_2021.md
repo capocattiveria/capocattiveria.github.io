@@ -8,7 +8,7 @@ categories:
 tags: 
   - Thought
 slug: 08_recensione_2021
-draft: false 
+draft: true 
 ---
 
 E' stato un anno di merda che non ha portato quasi niente di buono, però mi sono

@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['tree_71',['Tree',['../classslothLib_1_1Tree.html',1,'slothLib::Tree&lt; T &gt;'],['../classslothLib_1_1Tree.html#a9c2fe8d7ac019d927997bade4a69c902',1,'slothLib::Tree::Tree(const Tree&lt; T &gt; &amp;tree)'],['../classslothLib_1_1Tree.html#ad1bb3ef8e6747000b865c55aa473996b',1,'slothLib::Tree::Tree()'],['../classslothLib_1_1Node.html#aa2f9f90efcd38311bf153da95f3561c0',1,'slothLib::Node::Tree()']]],
+  ['tree_2eh_72',['Tree.h',['../Tree_8h.html',1,'']]],
+  ['treeposvector_73',['TreePosVector',['../classslothLib_1_1TreePosVector.html',1,'slothLib::TreePosVector&lt; T &gt;'],['../classslothLib_1_1Node.html#a98870c5ab6f917d32cd95a5f0b33b3fb',1,'slothLib::Node::TreePosVector()'],['../classslothLib_1_1TreePosVector.html#a73d262bc56c2fb95a423a4430a17b9d0',1,'slothLib::TreePosVector::TreePosVector(int maxDegree, int height)'],['../classslothLib_1_1TreePosVector.html#a7d12cd230d57703696373be4d71ec459',1,'slothLib::TreePosVector::TreePosVector(const TreePosVector&lt; T &gt; &amp;tree)']]],
+  ['treeposvector_2eh_74',['TreePosVector.h',['../TreePosVector_8h.html',1,'']]],
+  ['treeposvector_3c_20std_3a_3apair_3c_20k_2c_20t_20_3e_20_3e_75',['TreePosVector&lt; std::pair&lt; K, T &gt; &gt;',['../classslothLib_1_1TreePosVector.html',1,'slothLib']]],
+  ['treeptrlist_76',['TreePtrList',['../classslothLib_1_1TreePtrList.html',1,'slothLib::TreePtrList&lt; T &gt;'],['../classslothLib_1_1Node.html#a2a246b35c2cf89b37fcbfb93daf36e47',1,'slothLib::Node::TreePtrList()'],['../classslothLib_1_1TreePtrList.html#ab2f838d05f6d253e1070c00c2ccaacc4',1,'slothLib::TreePtrList::TreePtrList()'],['../classslothLib_1_1TreePtrList.html#ad7ca6a1a0d0aa31ff83b0bef42c0f25f',1,'slothLib::TreePtrList::TreePtrList(const TreePtrList&lt; T &gt; &amp;tree)']]],
+  ['treeptrlist_2eh_77',['TreePtrList.h',['../TreePtrList_8h.html',1,'']]],
+  ['trova_78',['trova',['../namespaceslothLib.html#ae93389510a5a86976b2f962390ca5f78',1,'slothLib::trova(typename std::vector&lt; Node&lt; T &gt; * &gt;::iterator begin, typename std::vector&lt; Node&lt; T &gt; * &gt;::iterator end, const T &amp;value)'],['../namespaceslothLib.html#a731077c009732b77a324b747db528e93',1,'slothLib::trova(typename std::vector&lt; Node&lt; T &gt; * &gt;::const_iterator begin, typename std::vector&lt; Node&lt; T &gt; * &gt;::const_iterator end, const T &amp;value)']]]
+];

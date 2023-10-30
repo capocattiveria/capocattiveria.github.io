@@ -1,0 +1,7 @@
+<map id="slothLib::Tree&lt; T &gt;" name="slothLib::Tree&lt; T &gt;">
+<area shape="rect" id="node1" title="A generic tree data structure for representing hierarchical relationships." alt="" coords="247,71,393,98"/>
+<area shape="rect" id="node3" href="$classslothLib_1_1TreePosVector.html" title=" " alt="" coords="461,5,633,47"/>
+<area shape="rect" id="node4" href="$classslothLib_1_1TreePosVector.html" title="A Tree data structure implemented with vector positions." alt="" coords="441,71,652,98"/>
+<area shape="rect" id="node5" href="$classslothLib_1_1TreePtrList.html" title="This class is an implementation of a tree structure." alt="" coords="453,122,640,149"/>
+<area shape="rect" id="node2" href="$classslothLib_1_1BasicGraph.html" title="This is an abstract class, it is the base class for all trees and graphs." alt="" coords="5,71,199,98"/>
+</map>

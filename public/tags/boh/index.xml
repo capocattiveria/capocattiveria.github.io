@@ -6,19 +6,14 @@
     <description>Recent content in boh on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 11:04:42 +0200</lastBuildDate>
-    
-	<atom:link href="https://nicofiorini.xyz/tags/boh/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://nicofiorini.xyz/tags/boh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pomodoro timer con Arduino</title>
-      <link>https://nicofiorini.xyz/posts/03_pomodoro_timer/</link>
-      <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
+      <title>Libreria Struttura dati</title>
+      <link>https://nicofiorini.xyz/posts/bradipolib/</link>
+      <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
       
-      <guid>https://nicofiorini.xyz/posts/03_pomodoro_timer/</guid>
-      <description>Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo a farmi un programma non riesco a seguirlo per più di due o tre giorni.
-Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una tecnica semplice e poco efficace. Stufo della situazione, mi sono ritrovato su You Tube in cerca di tecniche per un&amp;rsquo;organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da 8 a 10 ore al giorno, cioè la tecnica del Pomodoro.</description>
+      <guid>https://nicofiorini.xyz/posts/bradipolib/</guid>
+      <description>Al seguente link si trova la documentazione di una libreria di strutture dati implementata a scopo didattico Documentazione Libreria</description>
     </item>
     
   </channel>

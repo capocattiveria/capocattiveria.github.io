@@ -97,7 +97,6 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Dino Buzzati - I Sette messaggeri
 * Dino Buzzati - Sessanta racconti
 
-
 ## Sport, Montagna, Avventure
 
 * Kelly Starrett, Glen Cordoza - Becoming a Supple Leopard: The Ultimate Guide
