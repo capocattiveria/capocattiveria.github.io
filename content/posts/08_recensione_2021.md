@@ -12,7 +12,7 @@ draft: true
 ---
 
 E' stato un anno di merda che non ha portato quasi niente di buono, però mi sono
-venute tante idee che mi sono scritto e non ho sviluppato per questioni di tempo e per la mia 
+venute tante idee che mi sono scritto e non ho sviluppato per questioni di tempo e per la mia
 incapacità.
 
 ## Idee stupide
