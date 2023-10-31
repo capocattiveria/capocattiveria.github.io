@@ -6,25 +6,22 @@
     <description>Recent content in Programming on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate><atom:link href="https://nicofiorini.xyz/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate>
+    <atom:link href="https://nicofiorini.xyz/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourier series visualization</title>
       <link>https://nicofiorini.xyz/universita/fourier/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
-      
       <guid>https://nicofiorini.xyz/universita/fourier/</guid>
       <description>Questo è un mini progetto fatto per un esame di Reti di Calcolatori, in realtà per l&amp;rsquo;esame l&amp;rsquo;applicazione girava su un server puramente per scopo didattico, qui riporto per semplicità l&amp;rsquo;applicazione che gira solo sul lato client.
 Fourier series visualization</description>
     </item>
-    
     <item>
       <title>Super Mario Bros 3</title>
       <link>https://nicofiorini.xyz/universita/02_super_mario/</link>
       <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
-      
       <guid>https://nicofiorini.xyz/universita/02_super_mario/</guid>
       <description>Me and two other students, (Giuseppe Alfieri and Jacopo Saccocci) we have replicated a level of super mario bros 3. It was made with C++ and Qt frameworks, the source code is on my github. You can download and play at the following link: download here(for windows, only 64 bits)</description>
     </item>
-    
   </channel>
 </rss>
