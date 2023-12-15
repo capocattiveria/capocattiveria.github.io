@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on PaperMod</title>
+    <title>Posts on N!co</title>
     <link>https://flowibbia.github.io/posts/</link>
-    <description>Recent content in Posts on PaperMod</description>
-    <image>
-      <title>PaperMod</title>
-      <url>https://flowibbia.github.io/papermod-cover.png</url>
-      <link>https://flowibbia.github.io/papermod-cover.png</link>
-    </image>
+    <description>Recent content in Posts on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://flowibbia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -101,6 +96,15 @@ Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo,
       <guid>https://flowibbia.github.io/posts/01_lo-sambuco/</guid>
       <description>Tratto da una storia vera, alcune frasi sono in dialetto ciociaro, non fate caso agli eventuali errori grammaticali.
 Era una giornata di primavera, ero adolescente, pochi pensieri per la testa, e mi bastava andare in giro per essere sereno. Credo fosse una giornata di Aprile, quando io ed un mio amico andammo a fare un giro in motorino. Il sole ci portò a rilassarci vicino ad una fontana a pochi chilometri da casa, la cosidetta &amp;ldquo;fontana dello sambuco&amp;rdquo;, una fontana con delle vasche dove una volta facevano il bucato.</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://flowibbia.github.io/posts/rich_content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://flowibbia.github.io/posts/rich_content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
     </item>
     
   </channel>

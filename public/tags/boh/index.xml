@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>boh on PaperMod</title>
+    <title>boh on N!co</title>
     <link>https://flowibbia.github.io/tags/boh/</link>
-    <description>Recent content in boh on PaperMod</description>
-    <image>
-      <title>PaperMod</title>
-      <url>https://flowibbia.github.io/papermod-cover.png</url>
-      <link>https://flowibbia.github.io/papermod-cover.png</link>
-    </image>
+    <description>Recent content in boh on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/boh/index.xml" rel="self" type="application/rss+xml" />

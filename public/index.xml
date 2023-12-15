@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on PaperMod</title>
+    <title>N!co</title>
     <link>https://flowibbia.github.io/</link>
-    <description>Recent content in Home on PaperMod</description>
-    <image>
-      <title>PaperMod</title>
-      <url>https://flowibbia.github.io/papermod-cover.png</url>
-      <link>https://flowibbia.github.io/papermod-cover.png</link>
-    </image>
+    <description>Recent content on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://flowibbia.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -149,6 +144,15 @@ Fourier series visualization</description>
       
       <guid>https://flowibbia.github.io/universita/01_grafo_bipartito/</guid>
       <description>Problema di algoritmi svolto e formalizzato: Grafo</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://flowibbia.github.io/posts/rich_content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://flowibbia.github.io/posts/rich_content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
     </item>
     
     <item>

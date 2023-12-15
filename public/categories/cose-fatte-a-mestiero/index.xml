@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cose fatte a mestiero on PaperMod</title>
+    <title>Cose fatte a mestiero on N!co</title>
     <link>https://flowibbia.github.io/categories/cose-fatte-a-mestiero/</link>
-    <description>Recent content in Cose fatte a mestiero on PaperMod</description>
-    <image>
-      <title>PaperMod</title>
-      <url>https://flowibbia.github.io/papermod-cover.png</url>
-      <link>https://flowibbia.github.io/papermod-cover.png</link>
-    </image>
+    <description>Recent content in Cose fatte a mestiero on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://flowibbia.github.io/categories/cose-fatte-a-mestiero/index.xml" rel="self" type="application/rss+xml" />
