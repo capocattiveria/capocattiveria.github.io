@@ -1,7 +1,7 @@
 ---
 title: "Scontro con una pecora"
 date: 2022-03-16T09:34:38+01:00
-author: "Ibbia98"
+author: "Nico Fiorini"
 categories: 
   - Blog
   - All

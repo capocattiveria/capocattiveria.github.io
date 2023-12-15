@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>All on N!co</title>
-    <link>https://nicofiorini.xyz/tags/all/</link>
-    <description>Recent content in All on N!co</description>
+    <title>All on PaperMod</title>
+    <link>https://flowibbia.github.io/tags/all/</link>
+    <description>Recent content in All on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://flowibbia.github.io/papermod-cover.png</url>
+      <link>https://flowibbia.github.io/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 10:37:26 +0200</lastBuildDate>
-    <atom:link href="https://nicofiorini.xyz/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2020 10:37:26 +0200</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Super Mario Bros 3</title>
-      <link>https://nicofiorini.xyz/universita/02_super_mario/</link>
+      <link>https://flowibbia.github.io/universita/02_super_mario/</link>
       <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
-      <guid>https://nicofiorini.xyz/universita/02_super_mario/</guid>
+      
+      <guid>https://flowibbia.github.io/universita/02_super_mario/</guid>
       <description>Me and two other students, (Giuseppe Alfieri and Jacopo Saccocci) we have replicated a level of super mario bros 3. It was made with C++ and Qt frameworks, the source code is on my github. You can download and play at the following link: download here(for windows, only 64 bits)</description>
     </item>
+    
     <item>
       <title>Grafo bipartito</title>
-      <link>https://nicofiorini.xyz/universita/01_grafo_bipartito/</link>
+      <link>https://flowibbia.github.io/universita/01_grafo_bipartito/</link>
       <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
-      <guid>https://nicofiorini.xyz/universita/01_grafo_bipartito/</guid>
+      
+      <guid>https://flowibbia.github.io/universita/01_grafo_bipartito/</guid>
       <description>Problema di algoritmi svolto e formalizzato: Grafo</description>
     </item>
+    
   </channel>
 </rss>

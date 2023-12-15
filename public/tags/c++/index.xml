@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>C&#43;&#43; on N!co</title>
-    <link>https://nicofiorini.xyz/tags/c&#43;&#43;/</link>
-    <description>Recent content in C&#43;&#43; on N!co</description>
+    <title>C&#43;&#43; on PaperMod</title>
+    <link>https://flowibbia.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://flowibbia.github.io/papermod-cover.png</url>
+      <link>https://flowibbia.github.io/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2020 10:37:26 +0200</lastBuildDate>
-    <atom:link href="https://nicofiorini.xyz/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2020 10:37:26 +0200</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Super Mario Bros 3</title>
-      <link>https://nicofiorini.xyz/universita/02_super_mario/</link>
+      <link>https://flowibbia.github.io/universita/02_super_mario/</link>
       <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
-      <guid>https://nicofiorini.xyz/universita/02_super_mario/</guid>
+      
+      <guid>https://flowibbia.github.io/universita/02_super_mario/</guid>
       <description>Me and two other students, (Giuseppe Alfieri and Jacopo Saccocci) we have replicated a level of super mario bros 3. It was made with C++ and Qt frameworks, the source code is on my github. You can download and play at the following link: download here(for windows, only 64 bits)</description>
     </item>
+    
   </channel>
 </rss>

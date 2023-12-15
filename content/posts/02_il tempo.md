@@ -1,7 +1,7 @@
 ---
 title: "Il Tempo"
 date: 2021-08-05T21:21:28+02:00
-author: "Crow"
+author: "Nico Fiorini"
 categories: 
   - All
   - Blog
@@ -21,7 +21,7 @@ cos'è il tempo, ne abbiamo una percezione perchè riusciamo a distinguere il pa
 il tempo rimane una cosa strana da intuire.
 Ne riesco ad avere un'intuizione soltanto in termini di eventi, e siccome in punti dello spazio diversi gli eventi accadono
 in modo diverso, allora si scopre che il tempo è relativo.
-Magari un giorno riuscirò a capire meglio il tempo, invece di scrivere ulteriori stronzate, un libro interessante che 
+Magari un giorno riuscirò a capire meglio il tempo, invece di scrivere ulteriori stronzate, un libro interessante che
 consiglio per comprendere un po' meglio la natura del tempo
 è questo:
 

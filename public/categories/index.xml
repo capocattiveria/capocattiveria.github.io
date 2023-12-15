@@ -1,40 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on N!co</title>
-    <link>https://nicofiorini.xyz/categories/</link>
-    <description>Recent content in Categories on N!co</description>
+    <title>Categories on PaperMod</title>
+    <link>https://flowibbia.github.io/categories/</link>
+    <description>Recent content in Categories on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://flowibbia.github.io/papermod-cover.png</url>
+      <link>https://flowibbia.github.io/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate>
-    <atom:link href="https://nicofiorini.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://flowibbia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
-      <link>https://nicofiorini.xyz/categories/all/</link>
+      <link>https://flowibbia.github.io/categories/all/</link>
       <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
-      <guid>https://nicofiorini.xyz/categories/all/</guid>
+      
+      <guid>https://flowibbia.github.io/categories/all/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Blog</title>
-      <link>https://nicofiorini.xyz/categories/blog/</link>
+      <link>https://flowibbia.github.io/categories/blog/</link>
       <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
-      <guid>https://nicofiorini.xyz/categories/blog/</guid>
+      
+      <guid>https://flowibbia.github.io/categories/blog/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Cose fatte a mestiero</title>
-      <link>https://nicofiorini.xyz/categories/cose-fatte-a-mestiero/</link>
+      <link>https://flowibbia.github.io/categories/cose-fatte-a-mestiero/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://nicofiorini.xyz/categories/cose-fatte-a-mestiero/</guid>
+      
+      <guid>https://flowibbia.github.io/categories/cose-fatte-a-mestiero/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Universita</title>
-      <link>https://nicofiorini.xyz/categories/universita/</link>
+      <link>https://flowibbia.github.io/categories/universita/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
-      <guid>https://nicofiorini.xyz/categories/universita/</guid>
+      
+      <guid>https://flowibbia.github.io/categories/universita/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 title: "Il Cibo"
 date: 2023-02-10T11:10:25+01:00
-author: "Ibbia98"
+author: "Nico Fiorini"
 categories: 
   - Blog
   - All

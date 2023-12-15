@@ -1,7 +1,7 @@
 ---
 title: "Riassunto 2021"
 date: 2021-12-31T11:14:21+01:00
-author: "Ibbia98"
+author: "Nico Fiorini"
 categories: 
   - Blog
   - All

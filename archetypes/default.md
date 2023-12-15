@@ -1,12 +1,8 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
++++
 author: "Nico Fiorini"
-categories: 
-  - All 
-tags: 
-  - boh
-slug: {{ replace .Name "-" " " | title }}
-draft: true
----
-
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+date = {{ .Date }}
+tags: []
+draft = true
+showToc = true
++++
