@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://flowibbia.github.io/posts/universita/bradipolib/</loc>
+    <loc>https://flowibbia.github.io/posts/tech/bradipolib/</loc>
     <lastmod>2023-10-30T17:06:51+01:00</lastmod>
   </url><url>
     <loc>https://flowibbia.github.io/tags/c&#43;&#43;/</loc>
@@ -20,25 +20,16 @@
     <loc>https://flowibbia.github.io/tags/</loc>
     <lastmod>2023-10-30T17:06:51+01:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/posts/universita/</loc>
+    <loc>https://flowibbia.github.io/posts/tech/</loc>
     <lastmod>2023-10-30T17:06:51+01:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/categories/all/</loc>
-    <lastmod>2022-03-11T12:50:10+01:00</lastmod>
-  </url><url>
-    <loc>https://flowibbia.github.io/categories/blog/</loc>
-    <lastmod>2022-03-11T12:50:10+01:00</lastmod>
-  </url><url>
-    <loc>https://flowibbia.github.io/categories/</loc>
-    <lastmod>2022-03-11T12:50:10+01:00</lastmod>
-  </url><url>
-    <loc>https://flowibbia.github.io/posts/11_strumenti_musicali/</loc>
-    <lastmod>2022-03-11T12:50:10+01:00</lastmod>
-  </url><url>
-    <loc>https://flowibbia.github.io/categories/cose-fatte-a-mestiero/</loc>
+    <loc>https://flowibbia.github.io/posts/consigli/the_nice_links/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/posts/consigli/siti_web/</loc>
+    <loc>https://flowibbia.github.io/tags/tips/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/posts/consigli/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://flowibbia.github.io/tags/arduino/</loc>
@@ -47,31 +38,49 @@
     <loc>https://flowibbia.github.io/tags/hardware/</loc>
     <lastmod>2021-09-19T11:04:42+02:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/posts/03_pomodoro_timer/</loc>
+    <loc>https://flowibbia.github.io/posts/tech/03_pomodoro_timer/</loc>
     <lastmod>2021-09-19T11:04:42+02:00</lastmod>
   </url><url>
+    <loc>https://flowibbia.github.io/posts/books/</loc>
+    <lastmod>2021-08-05T21:21:28+02:00</lastmod>
+  </url><url>
     <loc>https://flowibbia.github.io/tags/books/</loc>
-    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-05T21:21:28+02:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/posts/books/il-tempo/</loc>
+    <lastmod>2021-08-05T21:21:28+02:00</lastmod>
   </url><url>
     <loc>https://flowibbia.github.io/posts/books/my_book/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/posts/universita/fourier/</loc>
+    <loc>https://flowibbia.github.io/posts/tech/fourier/</loc>
+    <lastmod>2020-11-03T12:01:53+02:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/tags/javascript/</loc>
     <lastmod>2020-11-03T12:01:53+02:00</lastmod>
   </url><url>
     <loc>https://flowibbia.github.io/tags/math/</loc>
     <lastmod>2020-11-03T12:01:53+02:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/categories/universita/</loc>
-    <lastmod>2020-11-03T12:01:53+02:00</lastmod>
-  </url><url>
     <loc>https://flowibbia.github.io/tags/all/</loc>
     <lastmod>2020-10-29T10:37:26+02:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/posts/universita/02_super_mario/</loc>
+    <loc>https://flowibbia.github.io/categories/</loc>
     <lastmod>2020-10-29T10:37:26+02:00</lastmod>
   </url><url>
-    <loc>https://flowibbia.github.io/posts/universita/01_grafo_bipartito/</loc>
+    <loc>https://flowibbia.github.io/posts/tech/02_super_mario/</loc>
+    <lastmod>2020-10-29T10:37:26+02:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/categories/universita/</loc>
+    <lastmod>2020-10-29T10:37:26+02:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/tags/algorithm/</loc>
+    <lastmod>2020-08-04T10:14:30+02:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/posts/tech/01_grafo_bipartito/</loc>
+    <lastmod>2020-08-04T10:14:30+02:00</lastmod>
+  </url><url>
+    <loc>https://flowibbia.github.io/tags/italiano/</loc>
     <lastmod>2020-08-04T10:14:30+02:00</lastmod>
   </url><url>
     <loc>https://flowibbia.github.io/about/</loc>

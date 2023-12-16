@@ -129,8 +129,16 @@ params:
     homeInfoParams:
         Title: "Welcome to my blog."
         Content: >
-            The journey of my mind into an increasingly complex world.
+            Hello World, 😶‍🌫️
+            
+            
+            I'm Nico Fiorini, this is my digital garden, here you can find some interesting
+            and boring things.
+            
 
+            This is the journey of my mind into
+            an increasingly complex world.
+            
     socialIcons:
         - name: github
           url: "https://github.com/flowibbia/"

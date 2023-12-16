@@ -1,14 +1,11 @@
 ---
-title: "Pomodoro timer con Arduino"
+title: "Timer con Arduino (Ita)"
 date: 2021-09-19T11:04:42+02:00
 author: "Nico Fiorini"
-categories: 
-  - Blog
-  - All
+summary: A Handmade Pomodoro Timer with Arduino
 tags: 
   - Hardware
   - Arduino
-slug: 03_pomodoro_timer
 draft: false
 ---
 
@@ -47,12 +44,11 @@ visto più o meno cosa potevo fare con quello che avevo a disposizione.
 * 3 pulsanti
 * 1 led
 * Potenziometro 10k
-* 3 resistenze 10k\\(\Omega\\) (resistenze di pull down, utilizzate per i pulsanti)
-* 2 resistenze 220\\(\Omega\\)
+* 3 resistenze 10 k\\(\Omega\\) (resistenze di pull down, utilizzate per i pulsanti)
+* 2 resistenze 220 \\(\Omega\\)
 * Sensore di temperatura DHT11
 * Buzzer
 * 2 basette millefori
-* 1 led
 
 ## Link utili
 

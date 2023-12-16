@@ -49,6 +49,9 @@
     margin: 24px 0 16px;
 }
 
+table thead tr th{
+    font-size: 30px;
+}
 .post-content h1 {
     text-align: center;
     margin: 40px auto 32px;
@@ -80,7 +83,7 @@
 
 .post-content a,
 .toc a:hover {
-    text-decoration: nonde;
+    text-decoration: none;
     /* box-shadow: 0 1px 0; */
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
@@ -147,6 +150,7 @@
     margin-top: 10px;
 }
 
+
 .post-content table {
     margin-bottom: 32px;
 }
@@ -157,10 +161,12 @@
     padding: 12px 8px;
     line-height: 1.5;
     border-bottom: 1px solid var(--border);
+    /* border-right: 1px solid var(--border); */
 }
 
 .post-content table th {
-    font-size: 14px;
+    font-size: 18px;
+    color: var(--title-tertiary);
     text-align: start;
 }
 

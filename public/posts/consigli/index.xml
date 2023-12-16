@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tips. on N!co</title>
+    <link>https://flowibbia.github.io/posts/consigli/</link>
+    <description>Recent content in Tips. on N!co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://flowibbia.github.io/posts/consigli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The nice links</title>
+      <link>https://flowibbia.github.io/posts/consigli/the_nice_links/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://flowibbia.github.io/posts/consigli/the_nice_links/</guid>
+      <description>A list of well-made websites that can be interesting and convenient to visit.</description>
+    </item>
+    
+  </channel>
+</rss>

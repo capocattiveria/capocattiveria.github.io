@@ -7,7 +7,7 @@ categories:
   - All
 tags: 
 slug: 11_strumenti_musicali
-draft: false
+draft: true 
 ---
 
 * Il pianoforte tocca l'anima

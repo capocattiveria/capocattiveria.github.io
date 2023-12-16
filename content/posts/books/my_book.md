@@ -1,20 +1,24 @@
 ---
-title: "La libreria di Nico"
+title: "My Library"
 author: "Nico Fiorini"
 date: '2021-03-22'
-categories: 
-  - All
-  - Blog
+summary: My personal library
 tags: 
   - Books
-slug: "My_book"
 draft: false
 ---
 
-Questa è una lista dei miei libri, non li ho letti ancora tutti, e forse alcuni non li leggerò mai. Quelli etichettati con e-book li ho letti sul kindle.
-Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
+This is a list of my books. I haven't read all of them yet, and perhaps I won't read some of them at all. The ones labeled
+as e-books were read on the Kindle. I might share my thoughts on some that I particularly enjoyed.
+It's always nice to browse through the shelves of others, isn't it? Perhaps through a library, one can catch a glimpse of
+a person's essence because books are chosen out of curiosity, and I believe that curiosity somewhat defines us.
 
-## Saggi e scienza
+## Essays and Science
+
+<!-- | Author      | Title       |
+| ----------- | ----------- |
+| Header  asdklfjoaspdhfiopasdhdifophasdiopfhuiop    | Title       |
+| Paragraph   | Text        | -->
 
 * Eco- Il fascismo eterno **(e-book)**
 * Yuval Noah Harari - Sapiens, Da animali a dèi
@@ -27,7 +31,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Daniel Kahneman - Pensieri lenti e veloci
 * Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali **(e-book)**
 * Desmond Morris - La scimmia nuda
-* Sacks - L'uomo che scambiò sua mogle per un cappello
+* Sacks - L'uomo che scambiò sua moglie per un cappello
 * Freud - L'interpretazione dei sogni
 * Freud - Introduzione alla psicoanalisi
 * Darwin - L'origine della specie
@@ -49,7 +53,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Grandi idee della matematica - Infinito. Viaggio o destino?
 * Geni della matematica - Gauss, Una rivoluzione nella teoria dei numeri
 
-## Narrativa
+## Narrative
 
 * Albert Camus - Lo straniero **(e-book)**
 * Cesare Pavese - Il mestiere di vivere
@@ -97,7 +101,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Dino Buzzati - I Sette messaggeri
 * Dino Buzzati - Sessanta racconti
 
-## Sport, Montagna, Avventure
+## Sport, Mountain and Adventure
 
 * Kelly Starrett, Glen Cordoza - Becoming a Supple Leopard: The Ultimate Guide
   to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance
@@ -113,7 +117,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Eros Grazioli - Skyrunning teoria dell'allenamento
 * Reinhold Messner - Le Alpi
 
-## Biografie
+## Biography 
 
 * Tich Nhat Uanh - Vita di Siddartha il Buddha
 * Jon Krakauer - Nelle terre estreme
@@ -122,7 +126,7 @@ Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
 * Walter Isaacson- Einstein, la sua vita, il suo universo **(e-book)**
 * Matthew McConaughey - Greenligths
 
-## Università
+## Computer, Mathematics, and Physics
 
 * Demetrescu, Finocchi, Italiano - Algoritmi e strutture dati
 * P.Atzeni, S. Ceri - Basi di Dati ( 2002 edition)

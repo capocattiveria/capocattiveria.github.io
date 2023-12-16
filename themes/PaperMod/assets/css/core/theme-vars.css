@@ -7,20 +7,20 @@
     --footer-height: 60px;
     --radius: 8px;
     --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
+    --entry: rgb(235, 232, 217);
     --menu: rgb(86 147 239);
-    --title-primary: rgb(0, 151, 63);
-    --title-secondary: rgb(117, 173, 55);
-    --title-tertiary: rgb(224, 50, 6);
+    --title-primary: rgb(177, 84, 9);
+    --title-secondary: rgb(230, 111, 15);
+    --title-tertiary: rgb(224, 166, 6);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
     --tertiary: rgb(214, 214, 214);
     --content: rgb(31, 31, 31);
     --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --ref: rgb(168, 90, 0);
-    --hover: rgb(197, 73, 15);
+    --code-bg: rgb(240, 239, 233);
+    --border: rgb(60, 79, 107);
+    --ref: rgb(3, 134, 221);
+    --hover: rgb(15, 185, 197);
 }
 
 .dark {
@@ -30,7 +30,6 @@
     --menu: rgb(86 147 239);
     --title-primary: rgb(0, 151, 63);
     --title-secondary: rgb(153, 187, 0);
-    /* --title-secondary: rgb(197, 184, 5); */
     --title-tertiary: rgb(224, 93, 6);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(155, 156, 157);

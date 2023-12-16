@@ -6,15 +6,23 @@
     <description>Recent content in Books on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Aug 2021 21:21:28 +0200</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La libreria di Nico</title>
+      <title>The Time (Ita)</title>
+      <link>https://flowibbia.github.io/posts/books/il-tempo/</link>
+      <pubDate>Thu, 05 Aug 2021 21:21:28 +0200</pubDate>
+      
+      <guid>https://flowibbia.github.io/posts/books/il-tempo/</guid>
+      <description>A brief reflection on time</description>
+    </item>
+    
+    <item>
+      <title>My Library</title>
       <link>https://flowibbia.github.io/posts/books/my_book/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://flowibbia.github.io/posts/books/my_book/</guid>
-      <description>Questa è una lista dei miei libri, non li ho letti ancora tutti, e forse alcuni non li leggerò mai. Quelli etichettati con e-book li ho letti sul kindle. Forse esprimerò un giudizio su alcuni che mi sono piaciuti particolarmente.
-Saggi e scienza Eco- Il fascismo eterno (e-book) Yuval Noah Harari - Sapiens, Da animali a dèi Yuval Noah Harari - Homo deus, Breve storia del futuro Yuval Noah Harari - 21 lezioni per il XXI secolo James Clear - Atomic habits (e-book) Cal Newport- Deep Work (e-book) Nassim Nicholas Taleb - Giocati dal caso (e-book) Nassim Nicholas Taleb - Antifragile Daniel Kahneman - Pensieri lenti e veloci Giulio Cesare Giacobbe - Come smettere di farsi le seghe mentali (e-book) Desmond Morris - La scimmia nuda Sacks - L&amp;rsquo;uomo che scambiò sua mogle per un cappello Freud - L&amp;rsquo;interpretazione dei sogni Freud - Introduzione alla psicoanalisi Darwin - L&amp;rsquo;origine della specie Feynman - Il senso delle cose Feynman - Sei pezzi facili Feynman - Il piacere di scoprire (e-book) Cartesio - Discorso sul metodo Einstein - Il significato della relatività/ Il mondo come io lo vedo Carlo Rovelli- Sette brevi lezioni di fisica (e-book) Carlo Rovelli - L&amp;rsquo;ordine del tempo Carlo Rovelli - La realtà non è come ci appare (e-book) Martin Davis - Il calcolatore universale Stephen W.</description>
+      <description>My personal library</description>
     </item>
     
   </channel>

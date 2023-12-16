@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Algorithm on N!co</title>
+    <link>https://flowibbia.github.io/tags/algorithm/</link>
+    <description>Recent content in Algorithm on N!co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2020 10:14:30 +0200</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafo Bipartito (Ita)</title>
+      <link>https://flowibbia.github.io/posts/tech/01_grafo_bipartito/</link>
+      <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
+      
+      <guid>https://flowibbia.github.io/posts/tech/01_grafo_bipartito/</guid>
+      <description>An algorithms exercise</description>
+    </item>
+    
+  </channel>
+</rss>

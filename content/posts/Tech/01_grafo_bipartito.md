@@ -1,12 +1,12 @@
 ---
-title: "Grafo bipartito"
+title: "Grafo Bipartito (Ita)"
 date: 2020-08-04T10:14:30+02:00
 author: "Nico Fiorini"
-categories: 
-  - Universita
+summary: An algorithms exercise
 tags: 
-  - All
   - Math
+  - Algorithm
+  - Italiano
 slug: 01_grafo_bipartito
 draft: false
 ---
