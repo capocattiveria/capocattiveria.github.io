@@ -6,6 +6,7 @@ categories:
   - Blog
   - All
 tags: 
+  - Hardware
   - Arduino
 slug: 03_pomodoro_timer
 draft: false

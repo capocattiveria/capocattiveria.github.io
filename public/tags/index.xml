@@ -8,29 +8,20 @@
     <language>en</language>
     <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://flowibbia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>boh</title>
-      <link>https://flowibbia.github.io/tags/boh/</link>
+      <title>C&#43;&#43;</title>
+      <link>https://flowibbia.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
       
-      <guid>https://flowibbia.github.io/tags/boh/</guid>
+      <guid>https://flowibbia.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thought</title>
-      <link>https://flowibbia.github.io/tags/thought/</link>
-      <pubDate>Fri, 10 Feb 2023 11:10:25 +0100</pubDate>
+      <title>Programming</title>
+      <link>https://flowibbia.github.io/tags/programming/</link>
+      <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
       
-      <guid>https://flowibbia.github.io/tags/thought/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aneddoti</title>
-      <link>https://flowibbia.github.io/tags/aneddoti/</link>
-      <pubDate>Wed, 16 Mar 2022 09:34:38 +0100</pubDate>
-      
-      <guid>https://flowibbia.github.io/tags/aneddoti/</guid>
+      <guid>https://flowibbia.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -44,9 +35,18 @@
     </item>
     
     <item>
+      <title>Hardware</title>
+      <link>https://flowibbia.github.io/tags/hardware/</link>
+      <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
+      
+      <guid>https://flowibbia.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Books</title>
       <link>https://flowibbia.github.io/tags/books/</link>
-      <pubDate>Thu, 05 Aug 2021 21:21:28 +0200</pubDate>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://flowibbia.github.io/tags/books/</guid>
       <description></description>
@@ -62,47 +62,11 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://flowibbia.github.io/tags/programming/</link>
-      <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
-      
-      <guid>https://flowibbia.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>All</title>
       <link>https://flowibbia.github.io/tags/all/</link>
       <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
       
       <guid>https://flowibbia.github.io/tags/all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://flowibbia.github.io/tags/c&#43;&#43;/</link>
-      <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
-      
-      <guid>https://flowibbia.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://flowibbia.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://flowibbia.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://flowibbia.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://flowibbia.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     

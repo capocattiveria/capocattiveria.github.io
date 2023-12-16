@@ -1,13 +1,10 @@
 ---
-title: "Libreria Struttura dati"
+title: "BradipoLib - Una libreria inefficace"
 date: 2023-10-30T17:06:51+01:00
 author: "Nico Fiorini"
-categories: 
-  - Blog
-  - All
 tags: 
-  - boh
-slug: BradipoLib
+  - C++
+  - Programming
 draft: false 
 ---
 

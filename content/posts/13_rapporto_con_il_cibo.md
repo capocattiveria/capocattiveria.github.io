@@ -8,7 +8,7 @@ categories:
 tags: 
   - Thought
 slug: 13_rapporto_con_il_cibo
-draft: false
+draft: true
 ---
 
 A me piace mangiare in tutti i modi, mi piace mangiare salutare, insalutare, ogni tipologia di cibo a suo modo

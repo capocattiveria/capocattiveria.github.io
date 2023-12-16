@@ -4,7 +4,7 @@ author: "Nico Fiorini"
 categories: 
   - Blog
 date: 2022-02-08T15:51:59+01:00
-draft: false
+draft: true
 ---
 
 {{< figure src="/images/mica_micia/mica_micia1.jpg" title="Mica & Micia" class="center" height="400px" >}}

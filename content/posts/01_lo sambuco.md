@@ -8,7 +8,7 @@ categories:
 tags: 
   - Aneddoti
 slug: ""
-draft: false
+draft: true
 ---
 
 Tratto da una storia vera, alcune frasi sono in dialetto ciociaro, non fate caso agli eventuali errori grammaticali.

@@ -6,12 +6,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Pomodoro timer con Arduino | N!co</title>
-<meta name="keywords" content="Arduino">
+<meta name="keywords" content="Hardware, Arduino">
 <meta name="description" content="Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo a farmi un programma non riesco a seguirlo per più di due o tre giorni.
 Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una tecnica semplice e poco efficace. Stufo della situazione, mi sono ritrovato su You Tube in cerca di tecniche per un&rsquo;organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da 8 a 10 ore al giorno, cioè la tecnica del Pomodoro.">
 <meta name="author" content="Nico Fiorini">
 <link rel="canonical" href="https://flowibbia.github.io/posts/03_pomodoro_timer/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.b0bffce7d14d1e65b4f68253f49cb0a37848ca4f715e796e0c95db21827fb188.css" integrity="sha256-sL/859FNHmW09oJT9Jywo3hIyk9xXnluDJXbIYJ/sYg=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.fdbc9c21ed21948f60254c7d06b2804602f812e958c7c227e7152d0b7059df17.css" integrity="sha256-/bycIe0hlI9gJUx9BrKARgL4EulYx8In5xUtC3BZ3xc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://flowibbia.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://flowibbia.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://flowibbia.github.io/favicon-32x32.png">
@@ -69,7 +69,7 @@ Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo,
   "name": "Pomodoro timer con Arduino",
   "description": "Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo a farmi un programma non riesco a seguirlo per più di due o tre giorni.\nDi conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una tecnica semplice e poco efficace. Stufo della situazione, mi sono ritrovato su You Tube in cerca di tecniche per un\u0026rsquo;organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da 8 a 10 ore al giorno, cioè la tecnica del Pomodoro.",
   "keywords": [
-    "Arduino"
+    "Hardware", "Arduino"
   ],
   "articleBody": "Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo a farmi un programma non riesco a seguirlo per più di due o tre giorni.\nDi conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una tecnica semplice e poco efficace. Stufo della situazione, mi sono ritrovato su You Tube in cerca di tecniche per un’organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da 8 a 10 ore al giorno, cioè la tecnica del Pomodoro.\nQuesta tecnica consiste nel:\nStudiare per \\(x\\) minuti Riposarsi per \\(y\\) minuti In genere questa tecnica viene descritta con \\(x = 25\\) e \\(y=5\\), però a me non piace, così utilizzo la variante con \\(x=60\\) e \\(y=10\\).\nCi sono varie applicazioni per lo smartphone per utilizzare questa tecnica, però avere un’arma di distrazione vicinomentre studio è controproducente, in più risulta molto macchinoso sbloccare il telefono e far partire il timer.\nHo cercato una soluzione più efficiente, avrei potuto comprare un timer fisico, oppure costruirmi un timer fisico, e da futuro ingegnere informatico (si spera) ho optato per la seconda opzione.\nSono un principiante, quindi ho sfruttato l’occasione per iniziare a giocherellare con Arduino, ed ho visto più o meno cosa potevo fare con quello che avevo a disposizione.\nMateriale utilizzato Arduino nano Lcd display 16x2 3 pulsanti 1 led Potenziometro 10k 3 resistenze 10k\\(\\Omega\\) (resistenze di pull down, utilizzate per i pulsanti) 2 resistenze 220\\(\\Omega\\) Sensore di temperatura DHT11 Buzzer 2 basette millefori 1 led Link utili Lascio dei link utili in caso volete costruirvi un Pomodoro timer anche voi.\nPer accendere il primo led Installare l’IDE di Arduino Suonare il buzzer Controllare il display Lcd Utilizzare il sensore di temperatura Lascio anche il mio codice sorgente, potete prenderlo come spunto, ma consiglio di non seguirlo, è un po’ incasinato, non ho avuto tempo di migliorarlo, e per far funzionare il tutto dovete rispettare la pedinatura che ho utilizzato io, quindi vi consiglio di cablarlo e programmarvelo da soli. Sono un principiante anche io, quindi se ci sono riuscito io può riuscirci chiunque.\nIl mio codice Risultato finale ",
   "wordCount" : "385",
@@ -138,13 +138,13 @@ Di conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo,
                 </a>
             </li>
             <li>
-                <a href="https://flowibbia.github.io/tags/" title="Tags">
-                    <span>Tags</span>
+                <a href="https://flowibbia.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
                 </a>
             </li>
             <li>
-                <a href="https://flowibbia.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
-                    <span>Search</span>
+                <a href="https://flowibbia.github.io/tags/" title="Tags">
+                    <span>Tags</span>
                 </a>
             </li>
             <li>
@@ -250,18 +250,19 @@ Sono un principiante anche io, quindi se ci sono riuscito io può riuscirci chiu
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://flowibbia.github.io/tags/hardware/">Hardware</a></li>
       <li><a href="https://flowibbia.github.io/tags/arduino/">Arduino</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://flowibbia.github.io/posts/07_le_persone_che_odio/">
+  <a class="prev" href="https://flowibbia.github.io/posts/consigli/siti_web/">
     <span class="title">« Prev</span>
     <br>
-    <span>Le persone che odio</span>
+    <span>Siti fatti a mestiero</span>
   </a>
-  <a class="next" href="https://flowibbia.github.io/posts/02_il-tempo/">
+  <a class="next" href="https://flowibbia.github.io/posts/books/my_book/">
     <span class="title">Next »</span>
     <br>
-    <span>Il Tempo</span>
+    <span>La libreria di Nico</span>
   </a>
 </nav>
 

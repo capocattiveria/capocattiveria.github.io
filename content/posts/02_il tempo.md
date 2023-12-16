@@ -8,7 +8,7 @@ categories:
 tags: 
   - "Books"
   - "Thought"
-draft: false
+draft: true
 ---
 
 Una volta provai a pensare alla natura del tempo, ovviamente non sono giunto ad una conclusione e credo non mi

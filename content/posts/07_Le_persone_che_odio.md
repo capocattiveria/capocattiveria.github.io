@@ -8,7 +8,7 @@ categories:
 tags: 
   - Thought
 slug: 
-draft: false
+draft: true
 ---
 
 **Warning: Non prendere seriamente e leggere con tono scherzoso**

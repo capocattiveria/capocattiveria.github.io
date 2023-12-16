@@ -8,7 +8,7 @@ categories:
 tags: 
   - Aneddoti
 slug: 12_caduta_a_pecora
-draft: false
+draft: true
 ---
 
 Già potete capire dal titolo cos'è successo, ma partiamo dal principio, e capirete 

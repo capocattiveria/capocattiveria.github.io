@@ -30,18 +30,21 @@ languages:
           #   imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
         menu:
             main:
+                # - name: Università
+                #   url: posts/universita/
+                #   weight: 1
                 - name: Archive
                   url: archives
-                  weight: 1
+                  weight: 2
                 - name: Search
                   url: search/
                   weight: 3 
                 - name: Tags
                   url: tags/
-                  weight: 2 
+                  weight: 4 
                 - name: About
                   url: about/
-                  weight: 4 
+                  weight: 5 
                 # - name: Discord
                 #   url: https://discord.gg/ahpmTvhVmp
 

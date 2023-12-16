@@ -7,6 +7,10 @@
     margin-top: 40px;
 }
 
+.archive-year-header{
+    color: var(--title-secondary);
+}
+
 .archive-year:not(:last-of-type) {
     border-bottom: 2px solid var(--border);
 }
@@ -22,11 +26,16 @@
     width: 200px;
 }
 
+
+
 .archive-month:not(:last-of-type) {
     /* border-bottom: 1px solid var(--border); */
 }
 
 .archive-entry {
+
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
     position: relative;
     padding: 5px;
     margin: 10px 0;
