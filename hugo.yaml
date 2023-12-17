@@ -1,4 +1,4 @@
-baseURL: "https://flowibbia.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://nicofiorini98.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: N!co 
 paginate: 5
 theme: PaperMod
@@ -141,7 +141,7 @@ params:
             
     socialIcons:
         - name: github
-          url: "https://github.com/flowibbia/"
+          url: "https://github.com/nicofiorini98/"
         - name: twitch 
           url: "https://www.twitch.tv/nicoibbia"
         - name: instagram

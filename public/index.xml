@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>N!co</title>
-    <link>https://flowibbia.github.io/</link>
+    <link>https://nicofiorini98.github.io/</link>
     <description>Recent content on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://flowibbia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 17:06:51 +0100</lastBuildDate><atom:link href="https://nicofiorini98.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BradipoLib - My Inefficient library</title>
-      <link>https://flowibbia.github.io/posts/tech/bradipolib/</link>
+      <link>https://nicofiorini98.github.io/posts/tech/bradipolib/</link>
       <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/tech/bradipolib/</guid>
+      <guid>https://nicofiorini98.github.io/posts/tech/bradipolib/</guid>
       <description>Tree, Graph and DHeap in a library</description>
     </item>
     
     <item>
       <title>The nice links</title>
-      <link>https://flowibbia.github.io/posts/consigli/the_nice_links/</link>
+      <link>https://nicofiorini98.github.io/posts/consigli/the_nice_links/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/consigli/the_nice_links/</guid>
+      <guid>https://nicofiorini98.github.io/posts/consigli/the_nice_links/</guid>
       <description>A list of well-made websites that can be interesting and convenient to visit.</description>
     </item>
     
     <item>
       <title>Timer con Arduino (Ita)</title>
-      <link>https://flowibbia.github.io/posts/tech/03_pomodoro_timer/</link>
+      <link>https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/</link>
       <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/tech/03_pomodoro_timer/</guid>
+      <guid>https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/</guid>
       <description>A Handmade Pomodoro Timer with Arduino</description>
     </item>
     
     <item>
       <title>The Time (Ita)</title>
-      <link>https://flowibbia.github.io/posts/books/il-tempo/</link>
+      <link>https://nicofiorini98.github.io/posts/books/il-tempo/</link>
       <pubDate>Thu, 05 Aug 2021 21:21:28 +0200</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/books/il-tempo/</guid>
+      <guid>https://nicofiorini98.github.io/posts/books/il-tempo/</guid>
       <description>A brief reflection on time</description>
     </item>
     
     <item>
       <title>My Library</title>
-      <link>https://flowibbia.github.io/posts/books/my_book/</link>
+      <link>https://nicofiorini98.github.io/posts/books/my_book/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/books/my_book/</guid>
+      <guid>https://nicofiorini98.github.io/posts/books/my_book/</guid>
       <description>My personal library</description>
     </item>
     
     <item>
       <title>Fourier series visualization</title>
-      <link>https://flowibbia.github.io/posts/tech/fourier/</link>
+      <link>https://nicofiorini98.github.io/posts/tech/fourier/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/tech/fourier/</guid>
+      <guid>https://nicofiorini98.github.io/posts/tech/fourier/</guid>
       <description>A Fourier series visualization with p5.js</description>
     </item>
     
     <item>
       <title>Super Mario Bros 3</title>
-      <link>https://flowibbia.github.io/posts/tech/02_super_mario/</link>
+      <link>https://nicofiorini98.github.io/posts/tech/02_super_mario/</link>
       <pubDate>Thu, 29 Oct 2020 10:37:26 +0200</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/tech/02_super_mario/</guid>
+      <guid>https://nicofiorini98.github.io/posts/tech/02_super_mario/</guid>
       <description>Me and two other students, (Giuseppe Alfieri and Jacopo Saccocci) we have replicated a level of super mario bros 3. It was made with C++ and Qt frameworks, the source code is on my github. You can download and play at the following link: download here(for windows, only 64 bits)</description>
     </item>
     
     <item>
       <title>Grafo Bipartito (Ita)</title>
-      <link>https://flowibbia.github.io/posts/tech/01_grafo_bipartito/</link>
+      <link>https://nicofiorini98.github.io/posts/tech/01_grafo_bipartito/</link>
       <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
       
-      <guid>https://flowibbia.github.io/posts/tech/01_grafo_bipartito/</guid>
+      <guid>https://nicofiorini98.github.io/posts/tech/01_grafo_bipartito/</guid>
       <description>An algorithms exercise</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://flowibbia.github.io/about/</link>
+      <link>https://nicofiorini98.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://flowibbia.github.io/about/</guid>
+      <guid>https://nicofiorini98.github.io/about/</guid>
       <description>Perchè creare un blog quando esistono i social? Il blog è una forma di condivisione molto libera, rispetto ai social un blog permette di dare una forma più completa ai contenuti potento inserire più o meno di tutto. L&amp;rsquo;unico limite è il tempo. Un blog lo si può vedere come un giardino digitale personale, potete ammirare il giardino con occhio critico, lo potete, criticare, supportare, condividere o ignorare, insomma fate quello che vi pare.</description>
     </item>
     
