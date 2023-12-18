@@ -35,7 +35,7 @@
 
 .post-content {
     color: var(--content);
-    min-height: 450px;
+    /* min-height: 450px; */
 }
 
 .post-content.a{
@@ -325,6 +325,8 @@ table thead tr th{
 }
 
 .post-tags {
+    /* border-top: 1px solid rgba(145, 145, 145, 0.788); */
+    padding-top:10px;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -338,8 +340,8 @@ table thead tr th{
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
-    background: var(--code-bg);
-    border: 1px solid var(--border);
+    /* background: var(--code-bg); */
+    /* border: 1px solid var(--border); */
 }
 
 .post-tags a {
@@ -348,12 +350,13 @@ table thead tr th{
     color: var(--secondary);
     font-size: 14px;
     line-height: 34px;
-    background: var(--code-bg);
+    background: var(--entry);
 }
 
 .post-tags a:hover,
 .paginav a:hover {
-    background: var(--border);
+    background: var(--entry);
+    /* background: var(--border); */
 }
 
 .share-buttons {

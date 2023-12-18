@@ -2,15 +2,16 @@
     --gap: 24px;
     --content-gap: 20px;
     --nav-width: 1024px;
-    --main-width: 720px;
+    --main-width: 800px;
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
+    --theme: rgb(240, 239, 233);
     --entry: rgb(235, 232, 217);
-    --menu: rgb(86 147 239);
-    --title-primary: rgb(177, 84, 9);
-    --title-secondary: rgb(230, 111, 15);
+    /* --entry:rgb(240, 239, 233); */
+    --menu: rgb(7, 60, 141);
+    --title-primary: rgb(177, 82, 0);
+    --title-secondary: rgb(207, 134, 55);
     --title-tertiary: rgb(224, 166, 6);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
@@ -19,8 +20,8 @@
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(240, 239, 233);
     --border: rgb(60, 79, 107);
-    --ref: rgb(3, 134, 221);
-    --hover: rgb(15, 185, 197);
+    --ref: rgb(13, 127, 202);
+    --hover: rgb(102, 129, 247);
 }
 
 .dark {

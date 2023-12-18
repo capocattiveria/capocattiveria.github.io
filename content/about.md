@@ -5,13 +5,11 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-## Perchè creare un blog quando esistono i social?
+## Who Am I?
 
-Il blog è una forma di condivisione molto libera, rispetto ai social un blog permette di dare una forma più completa ai contenuti
-potento inserire più o meno di tutto. L'unico limite è il tempo.
-Un blog lo si può vedere come un giardino digitale personale, potete ammirare il giardino con occhio critico,
-lo potete, criticare, supportare, condividere o ignorare, insomma fate quello che vi pare.
+I am Nico Fiorini\
+A student of computer Engineering, and this is the journey of my mind and work.
 
-## Chi Sono?
+## Why a blog and not a social media?
 
-Sono uno studente di Ingegneria Informatica, tra le mie passioni ci sono la montagna, il Judo e la lettura.
+The blog is a very free form of sharing. Compared to social media, a blog allows for a more comprehensive presentation of content, enabling the inclusion of almost anything. The only limit is time and creativity.

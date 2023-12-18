@@ -24,8 +24,12 @@
 
 .logo a {
     font-size: 40px;
-    color: rgb(55, 94, 167);
+    color: var(--ref);
     font-weight: 700;
+}
+
+.logo a:hover {
+    color: var(--hover);
 }
 
 .logo a img, .logo a svg {
