@@ -100,6 +100,7 @@ a person's essence because books are chosen out of curiosity, and I believe that
 * Daniel Pennac - Storia di un Corpo ( Illustrazioni di Manu Larcenet )
 * Dino Buzzati - I Sette messaggeri
 * Dino Buzzati - Sessanta racconti
+* Francis Scott Fitzgerald - Il grande Gatsby
 
 ## Sport, Mountain and Adventure
 
@@ -140,3 +141,4 @@ a person's essence because books are chosen out of curiosity, and I believe that
 * Roger S. Pressman - Principi di Ingegneria del software ( 3th edition)
 * M. Luise, G. M. Vitetta - Teoria dei segnali
 * Ernesto Conte, Carmela Galdi - Fenomeni aleatori
+* Andrew S. Tanenbaum, Herbert Bos - I moderni sistemi operativi

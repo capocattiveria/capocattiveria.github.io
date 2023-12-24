@@ -8,7 +8,7 @@ tags:
   - All
   - C++
   - Programming 
-slug: 02_super_mario
+
 draft: false
 ---
 

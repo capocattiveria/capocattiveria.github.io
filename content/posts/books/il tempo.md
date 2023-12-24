@@ -3,6 +3,9 @@ title: "The Time (Ita)"
 date: 2021-08-05T21:21:28+02:00
 author: "Nico Fiorini"
 summary: A brief reflection on time
+# cover:
+#   image: images/books/ordine_del_tempo.png
+#   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
 tags: 
   - Books
 draft: false
