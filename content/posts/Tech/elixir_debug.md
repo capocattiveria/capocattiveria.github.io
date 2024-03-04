@@ -15,6 +15,8 @@ showToc: true
 
 Lately, I've discovered Elixir, a functional programming language. Its syntax is very clean, and it's quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw [asdf](https://asdf-vm.com/), a tool version manager.
 
+Note that this is not official documentation; it's a simple walkthrough and check the documentation if you have time.
+
 ---
 
 ## Installation with asdf
@@ -34,9 +36,9 @@ Now you can install Elixir and Erlang throw this tool version manager
 
 - The asdf-erlang github repository: https://github.com/asdf-vm/asdf-erlang
 
-Keep in mind to have the depencies that this install require, read Before asdf install on the repository.
+Ensure you have the dependencies required for this installation. Please read the "Before asdf install" section in the repository.
 
-For not having annoying warning in VScode ElixirLS extension I recommend to set this variable to .bashrc or in the current terminal session.
+To avoid annoying warnings in the VSCode ElixirLS extension, I recommend setting this variable in either your .bashrc file or in the current terminal session.
 
 ``` bash
 export KERL_BUILD_DOCS=yes
@@ -44,8 +46,7 @@ export KERL_INSTALL_HTMLDOCS=yes
 export KERL_INSTALL_MANPAGES=yes
 ```
 
-Find these to avoid warning in VSCode it took me some time that I would have liked to save.
-With these 3 environment variable setted you can now install erlang:
+To avoid warnings in VSCode and streamline the process, make sure to set these three environment variables. Once configured, you can proceed with the Erlang installation smoothly.
 
 ``` bash
 asdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git
@@ -54,7 +55,6 @@ asdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git
 ``` bash
 asdf install erlang <version>
 ```
-
 
 I install the latest version but this is up to you.
 Mine command is:
@@ -73,7 +73,7 @@ asdf local erlang <version>
 
 - the asdf-elixir github repository: https://github.com/asdf-vm/asdf-elixir
 
-I recommend always to see the required depencies, in this case is necessary erlang already installed and unzip, see the repository, this is not official documentation, is a simple walk-through.
+I recommend always checking the required dependencies. In this case, it is necessary to have Erlang already installed and unzip. Please refer to the repository.
 
 ```bash
 asdf install elixir <version>-otp-<version-otp>

@@ -7,9 +7,9 @@
 <meta name="robots" content="index, follow">
 <title>Elixir install with asdf (Linux) | N!co</title>
 <meta name="keywords" content="All, Elixir, Programming">
-<meta name="description" content="Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. While I&rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
-Installation with asdf Assuming you have installed asdf following the official instruction: Try
-&gt; asfd --version v0.">
+<meta name="description" content="Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
+Note that this is not official documentation; it&rsquo;s a simple walkthrough and check the documentation if you have time.
+Installation with asdf Assuming you have installed asdf following the official instruction: Try">
 <meta name="author" content="Nico Fiorini">
 <link rel="canonical" href="https://nicofiorini98.github.io/posts/tech/elixir_debug/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.a443e1bef63021677f9bd225a56937b63df9e9a82f35eae36c12bb16ae66c4df.css" integrity="sha256-pEPhvvYwIWd/m9IlpWk3tj356agvNerjbBK7Fq5mxN8=" rel="preload stylesheet" as="style">
@@ -27,9 +27,9 @@ Installation with asdf Assuming you have installed asdf following the official i
  
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <link rel="icon" href="/logo_tab.png"><meta property="og:title" content="Elixir install with asdf (Linux)" />
-<meta property="og:description" content="Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. While I&rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
-Installation with asdf Assuming you have installed asdf following the official instruction: Try
-&gt; asfd --version v0." />
+<meta property="og:description" content="Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
+Note that this is not official documentation; it&rsquo;s a simple walkthrough and check the documentation if you have time.
+Installation with asdf Assuming you have installed asdf following the official instruction: Try" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nicofiorini98.github.io/posts/tech/elixir_debug/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2024-03-02T10:41:26+02:00" />
@@ -37,9 +37,9 @@ Installation with asdf Assuming you have installed asdf following the official i
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Elixir install with asdf (Linux)"/>
-<meta name="twitter:description" content="Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. While I&rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
-Installation with asdf Assuming you have installed asdf following the official instruction: Try
-&gt; asfd --version v0."/>
+<meta name="twitter:description" content="Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
+Note that this is not official documentation; it&rsquo;s a simple walkthrough and check the documentation if you have time.
+Installation with asdf Assuming you have installed asdf following the official instruction: Try"/>
 
 
 <script type="application/ld+json">
@@ -74,12 +74,12 @@ Installation with asdf Assuming you have installed asdf following the official i
   "@type": "BlogPosting",
   "headline": "Elixir install with asdf (Linux)",
   "name": "Elixir install with asdf (Linux)",
-  "description": "Lately, I\u0026rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it\u0026rsquo;s quite enjoyable to explore a new paradigm. While I\u0026rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.\nInstallation with asdf Assuming you have installed asdf following the official instruction: Try\n\u0026gt; asfd --version v0.",
+  "description": "Lately, I\u0026rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it\u0026rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.\nNote that this is not official documentation; it\u0026rsquo;s a simple walkthrough and check the documentation if you have time.\nInstallation with asdf Assuming you have installed asdf following the official instruction: Try",
   "keywords": [
     "All", "Elixir", "Programming"
   ],
-  "articleBody": "Lately, I’ve discovered Elixir, a functional programming language. Its syntax is very clean, and it’s quite enjoyable to explore a new paradigm. While I’m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.\nInstallation with asdf Assuming you have installed asdf following the official instruction: Try\n\u003e asfd --version v0.13.1-0586b37 Now you can install Elixir and Erlang throw this tool version manager\nInstalling Erlang The asdf-erlang github repository: https://github.com/asdf-vm/asdf-erlang Keep in mind to have the depencies that this install require, read Before asdf install on the repository.\nFor not having annoying warning in VScode ElixirLS extension I recommend to set this variable to .bashrc or in the current terminal session.\nexport KERL_BUILD_DOCS=yes export KERL_INSTALL_HTMLDOCS=yes export KERL_INSTALL_MANPAGES=yes Find these to avoid warning in VSCode it took me some time that I would have liked to save. With these 3 environment variable setted you can now install erlang:\nasdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git asdf install erlang I install the latest version but this is up to you. Mine command is:\nasdf install erlang latest Now the latest command to make the command available on the shell:\nasdf local erlang Installing Elixir the asdf-elixir github repository: https://github.com/asdf-vm/asdf-elixir I recommend always to see the required depencies, in this case is necessary erlang already installed and unzip, see the repository, this is not official documentation, is a simple walk-through.\nasdf install elixir -otp- The should be the version installed, if you have 26 installed replace with 26.\nMine is:\nasdf install elixir 1.16.0-otp-26 ",
-  "wordCount" : "273",
+  "articleBody": "Lately, I’ve discovered Elixir, a functional programming language. Its syntax is very clean, and it’s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.\nNote that this is not official documentation; it’s a simple walkthrough and check the documentation if you have time.\nInstallation with asdf Assuming you have installed asdf following the official instruction: Try\n\u003e asfd --version v0.13.1-0586b37 Now you can install Elixir and Erlang throw this tool version manager\nInstalling Erlang The asdf-erlang github repository: https://github.com/asdf-vm/asdf-erlang Ensure you have the dependencies required for this installation. Please read the “Before asdf install” section in the repository.\nTo avoid annoying warnings in the VSCode ElixirLS extension, I recommend setting this variable in either your .bashrc file or in the current terminal session.\nexport KERL_BUILD_DOCS=yes export KERL_INSTALL_HTMLDOCS=yes export KERL_INSTALL_MANPAGES=yes To avoid warnings in VSCode and streamline the process, make sure to set these three environment variables. Once configured, you can proceed with the Erlang installation smoothly.\nasdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git asdf install erlang I install the latest version but this is up to you. Mine command is:\nasdf install erlang latest Now the latest command to make the command available on the shell:\nasdf local erlang Installing Elixir the asdf-elixir github repository: https://github.com/asdf-vm/asdf-elixir I recommend always checking the required dependencies. In this case, it is necessary to have Erlang already installed and unzip. Please refer to the repository.\nasdf install elixir -otp- The should be the version installed, if you have 26 installed replace with 26.\nMine is:\nasdf install elixir 1.16.0-otp-26 ",
+  "wordCount" : "282",
   "inLanguage": "en",
   "datePublished": "2024-03-02T10:41:26+02:00",
   "dateModified": "2024-03-02T10:41:26+02:00",
@@ -199,7 +199,8 @@ Installation with asdf Assuming you have installed asdf following the official i
     </details>
 </div>
 
-  <div class="post-content"><p>Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. While I&rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw <a href="https://asdf-vm.com/">asdf</a>, a tool version manager.</p>
+  <div class="post-content"><p>Lately, I&rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw <a href="https://asdf-vm.com/">asdf</a>, a tool version manager.</p>
+<p>Note that this is not official documentation; it&rsquo;s a simple walkthrough and check the documentation if you have time.</p>
 <hr>
 <h2 id="installation-with-asdf">Installation with asdf<a hidden class="anchor" aria-hidden="true" href="#installation-with-asdf">#</a></h2>
 <p>Assuming you have installed asdf following the official instruction:
@@ -212,13 +213,12 @@ Try</p>
 <ul>
 <li>The asdf-erlang github repository: <a href="https://github.com/asdf-vm/asdf-erlang">https://github.com/asdf-vm/asdf-erlang</a></li>
 </ul>
-<p>Keep in mind to have the depencies that this install require, read Before asdf install on the repository.</p>
-<p>For not having annoying warning in VScode ElixirLS extension I recommend to set this variable to .bashrc or in the current terminal session.</p>
+<p>Ensure you have the dependencies required for this installation. Please read the &ldquo;Before asdf install&rdquo; section in the repository.</p>
+<p>To avoid annoying warnings in the VSCode ElixirLS extension, I recommend setting this variable in either your .bashrc file or in the current terminal session.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">KERL_BUILD_DOCS</span><span class="o">=</span>yes
 </span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">KERL_INSTALL_HTMLDOCS</span><span class="o">=</span>yes
 </span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">KERL_INSTALL_MANPAGES</span><span class="o">=</span>yes
-</span></span></code></pre></div><p>Find these to avoid warning in VSCode it took me some time that I would have liked to save.
-With these 3 environment variable setted you can now install erlang:</p>
+</span></span></code></pre></div><p>To avoid warnings in VSCode and streamline the process, make sure to set these three environment variables. Once configured, you can proceed with the Erlang installation smoothly.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">asdf plugin add erlang https://github.com/asdf-vm/asdf-erlang.git
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">asdf install erlang &lt;version&gt;
 </span></span></code></pre></div><p>I install the latest version but this is up to you.
@@ -230,7 +230,7 @@ Mine command is:</p>
 <ul>
 <li>the asdf-elixir github repository: <a href="https://github.com/asdf-vm/asdf-elixir">https://github.com/asdf-vm/asdf-elixir</a></li>
 </ul>
-<p>I recommend always to see the required depencies, in this case is necessary erlang already installed and unzip, see the repository, this is not official documentation, is a simple walk-through.</p>
+<p>I recommend always checking the required dependencies. In this case, it is necessary to have Erlang already installed and unzip. Please refer to the repository.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">asdf install elixir &lt;version&gt;-otp-&lt;version-otp&gt;
 </span></span></code></pre></div><p>The <code>&lt;version-otp&gt;</code> should be the version installed, if you have 26 installed replace with 26.</p>
 <p>Mine is:</p>

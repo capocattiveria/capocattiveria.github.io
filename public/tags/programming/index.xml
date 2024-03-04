@@ -13,9 +13,9 @@
       <pubDate>Sat, 02 Mar 2024 10:41:26 +0200</pubDate>
       
       <guid>https://nicofiorini98.github.io/posts/tech/elixir_debug/</guid>
-      <description>Lately, I&amp;rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&amp;rsquo;s quite enjoyable to explore a new paradigm. While I&amp;rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
-Installation with asdf Assuming you have installed asdf following the official instruction: Try
-&amp;gt; asfd --version v0.</description>
+      <description>Lately, I&amp;rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&amp;rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
+Note that this is not official documentation; it&amp;rsquo;s a simple walkthrough and check the documentation if you have time.
+Installation with asdf Assuming you have installed asdf following the official instruction: Try</description>
     </item>
     
     <item>
