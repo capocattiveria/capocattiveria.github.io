@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on N!co</title>
+    <link>https://nicofiorini98.github.io/categories/tech/</link>
+    <description>Recent content in Tech on N!co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Mar 2024 10:41:26 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elixir install with asdf (Linux)</title>
+      <link>https://nicofiorini98.github.io/posts/tech/elixir_debug/</link>
+      <pubDate>Sat, 02 Mar 2024 10:41:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini98.github.io/posts/tech/elixir_debug/</guid>
+      <description>Lately, I&amp;rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&amp;rsquo;s quite enjoyable to explore a new paradigm. While I&amp;rsquo;m not an expert, I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
+Installation with asdf Assuming you have installed asdf following the official instruction: Try
+&amp;gt; asfd --version v0.</description>
+    </item>
+    
+  </channel>
+</rss>

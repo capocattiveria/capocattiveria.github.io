@@ -123,7 +123,7 @@ a person's essence because books are chosen out of curiosity, and I believe that
 * Tich Nhat Uanh - Vita di Siddartha il Buddha
 * Jon Krakauer - Nelle terre estreme
 * Jon Krakauer - Dove gli uomini diventano eroi
-* Walter Isaacson- Steve Jobs(e-book)
+* Walter Isaacson- Steve Jobs **(e-book)**
 * Walter Isaacson- Einstein, la sua vita, il suo universo **(e-book)**
 * Matthew McConaughey - Greenligths
 

@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nicofiorini98.github.io/tags/all/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/categories/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/tags/elixir/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/posts/tech/elixir_debug/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/posts/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/tags/programming/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/tags/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/categories/tech/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/posts/tech/</loc>
+    <lastmod>2024-03-02T10:41:26+02:00</lastmod>
+  </url><url>
     <loc>https://nicofiorini98.github.io/posts/tech/bradipolib/</loc>
     <lastmod>2023-10-30T17:06:51+01:00</lastmod>
   </url><url>
     <loc>https://nicofiorini98.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2023-10-30T17:06:51+01:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/</loc>
-    <lastmod>2023-10-30T17:06:51+01:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/posts/</loc>
-    <lastmod>2023-10-30T17:06:51+01:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/tags/programming/</loc>
-    <lastmod>2023-10-30T17:06:51+01:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/tags/</loc>
-    <lastmod>2023-10-30T17:06:51+01:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/posts/tech/</loc>
     <lastmod>2023-10-30T17:06:51+01:00</lastmod>
   </url><url>
     <loc>https://nicofiorini98.github.io/posts/consigli/the_nice_links/</loc>
@@ -61,12 +76,6 @@
   </url><url>
     <loc>https://nicofiorini98.github.io/tags/math/</loc>
     <lastmod>2020-11-03T12:01:53+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/tags/all/</loc>
-    <lastmod>2020-10-29T10:37:26+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/categories/</loc>
-    <lastmod>2020-10-29T10:37:26+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini98.github.io/posts/tech/02_super_mario/</loc>
     <lastmod>2020-10-29T10:37:26+02:00</lastmod>
