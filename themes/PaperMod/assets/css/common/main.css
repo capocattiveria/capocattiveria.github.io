@@ -12,7 +12,7 @@
 }
 
 strong {
-    color: rgb(14, 118, 236)
+    color: var(--bold-color)
 }
 
 .pagination {

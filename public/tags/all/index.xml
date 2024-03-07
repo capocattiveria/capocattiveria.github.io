@@ -6,7 +6,18 @@
     <description>Recent content in All on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Mar 2024 10:41:26 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 10:00:26 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elixir, Useful resources</title>
+      <link>https://nicofiorini98.github.io/posts/tech/elixir_how_to_learn/</link>
+      <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini98.github.io/posts/tech/elixir_how_to_learn/</guid>
+      <description>Lately, I discovered Elixir, and I think the functional programming can scary someone, but once you get in, is a good way to learn a different approach to programming, and Elixir is a modern language based on Erlang VM.
+I want to share some resources that I found useful for become more comfortable with the language.
+Resources Official Documentation and guide: https://hexdocs.pm/elixir/introduction.html. Elixir School: https://elixirschool.com/en I think that this website cover the principal aspect of the language, is simple and minimal for learning fast.</description>
+    </item>
+    
     <item>
       <title>Elixir install with asdf (Linux)</title>
       <link>https://nicofiorini98.github.io/posts/tech/elixir_debug/</link>

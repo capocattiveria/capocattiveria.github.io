@@ -22,6 +22,7 @@
     --border: rgb(60, 79, 107);
     --ref: rgb(13, 127, 202);
     --hover: rgb(102, 129, 247);
+    --bold-color: rgb(30, 30, 30);
 }
 
 .dark {
@@ -39,6 +40,7 @@
     --hljs-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
+    --bold-color: rgb(196, 193, 150);
 }
 
 .list {
