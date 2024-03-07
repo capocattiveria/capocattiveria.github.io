@@ -27,7 +27,7 @@ I want to share some resources that I found useful for become more comfortable w
 3. **A good book**: <https://elixir-lang.org/learning.html#books>
 
   This is the book tips from the official Elixir website, I read a little bit of *"Learn functional programming with Elixir"*
-  Maybe for Elixir you can get the most from *"Elixir in Action"*, cover some port of the concurrency in beam.
+  Maybe for Elixir you can get most of how it works from *"Elixir in Action"*, cover some part of the concurrency in beam that helps to get how it works the concurrency.
 
 1. **Exercise**: <https://exercism.org/>.
 
