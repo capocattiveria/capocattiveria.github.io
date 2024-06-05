@@ -38,3 +38,4 @@ To get started with this board and become familiar with the APIs provided by the
 ## Firmware Development
 
 You can find my code in my repository, in the folder debouncing_button.
+[Debouncing Button project](https://github.com/nicofiorini98/embedded_journey/tree/master/debouncing_button)

@@ -14,3 +14,5 @@ tackle more complex projects and problems.
 As I face challenges and solve problems along the way, I will share some of my experiences and solutions,
 hoping to inspire and assist anyone interested in
 delving into this fascinating world that is still relatively unexplored by me.
+
+My repository for the code is in this link: [embedded journey repository](https://github.com/nicofiorini98/embedded_journey/tree/master)
