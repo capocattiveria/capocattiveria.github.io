@@ -6,13 +6,40 @@
     <description>Recent content in Tags on N!co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2024 10:00:26 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 10:41:26 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
       <link>https://nicofiorini98.github.io/tags/all/</link>
-      <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
+      <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
       <guid>https://nicofiorini98.github.io/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded</title>
+      <link>https://nicofiorini98.github.io/tags/embedded/</link>
+      <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini98.github.io/tags/embedded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esp32</title>
+      <link>https://nicofiorini98.github.io/tags/esp32/</link>
+      <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini98.github.io/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://nicofiorini98.github.io/tags/programming/</link>
+      <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
+      
+      <guid>https://nicofiorini98.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -22,15 +49,6 @@
       <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
       
       <guid>https://nicofiorini98.github.io/tags/elixir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://nicofiorini98.github.io/tags/programming/</link>
-      <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
-      
-      <guid>https://nicofiorini98.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
