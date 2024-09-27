@@ -1,5 +1,5 @@
 ---
-title: "Eldros - Il consumatore del male (It)"
+title: "Eldros - Il consumatore del l'immoralità(It)"
 date: 2024-09-27T10:00:26+02:00
 author: "Nico Fiorini"
 categories: 
@@ -15,7 +15,7 @@ Il mondo stava cambiando, proprio come il cielo che si oscura durante un tempora
 Il mio nome è Samuel, e ho sempre cercato il disagio nel mio tempo libero, il che mi ha portato a fare tante esperienze, sia positive che negative. La mia iperattività, il mio carisma e la mia voglia di avventure mi spingevano a socializzare con chiunque, al punto che ormai nulla riusciva più a sorprendermi. Conoscevo molto bene il lato oscuro del mondo: ladri, assassini, spacciatori... ero abituato a convivere con questo lato relativamente nascosto della società. Tuttavia, non avrei mai dovuto conoscere quel ragazzo, Nicolai. Nicolai nascondeva qualcosa che non era umano, qualcosa si nascondeva dentro di lui.
 
 Lo incontrai tramite una conoscenza comune, un mio amico del liceo, Peppino.
-Peppino mi rivolse le sue ultime parole per telefono, "Ho uno strano presentimento, credo che Nicolai si sia fatto prendere volontariamente da qualcosa. Ascoltami bene, cerca di evitarlo il più possibile", fece una pausa  e con voce tramante continuò,  " Non è più se stesso, ha bisogno di tempo per resistergli."
+Peppino mi rivolse le sue ultime parole per telefono, "Ho uno strano presentimento, credo che Nicolai si sia fatto prendere volontariamente da qualcosa. Ascoltami bene, cerca di evitarlo il più possibile", fece una pausa  e con voce tremante continuò,  " Non è più se stesso, ha bisogno di tempo per resistergli."
 Pensai che Peppino volesse dirmi che Nicolai fosse stato arrestato dai Carabinieri e che dovevo evitare di cercarlo per non destare sospetti su di me. Così mi distaccai da Nicolai.
 
 Passarono quattro mesi da quella chiamata, e non si fece più sentire. Nessuno sapeva dove fosse, ma non mi preoccupai. Peppino era sempre stato una persona sfuggente quindi credevo semplicemente che fosse da qualche parte nel mondo, al computer, con una canna in mano a cercare vulnerabilità nei sistemi informatici, tentando di tirare su qualche milione di euro, come era solito fare, bucando sistemi e ricattando aziende.
