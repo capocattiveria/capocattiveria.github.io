@@ -13,9 +13,14 @@
       <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
       
       <guid>https://nicofiorini98.github.io/posts/tech/elixir_how_to_learn/</guid>
-      <description>Lately, I discovered Elixir, and I think the functional programming can scary someone, but once you get in, is a good way to learn a different approach to programming, and Elixir is a modern language based on Erlang VM.
-I want to share some resources that I found useful for become more comfortable with the language.
-Resources Official Documentation and guide: https://hexdocs.pm/elixir/introduction.html. Elixir School: https://elixirschool.com/en I think that this website cover the principal aspect of the language, is simple and minimal for learning fast.</description>
+      <description>&lt;p&gt;Lately, I discovered Elixir, and I think the functional programming can scary someone, but once you get in, is a good way to learn a different approach to programming, and Elixir is a modern language based on Erlang VM.&lt;/p&gt;
+&lt;p&gt;I want to share some resources that I found useful for become more comfortable with the language.&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Official Documentation and guide&lt;/strong&gt;: &lt;a href=&#34;https://hexdocs.pm/elixir/introduction.html&#34;&gt;https://hexdocs.pm/elixir/introduction.html&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elixir School&lt;/strong&gt;: &lt;a href=&#34;https://elixirschool.com/en&#34;&gt;https://elixirschool.com/en&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I think that this website cover the principal aspect of the language, is simple and minimal for learning fast.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -24,9 +29,12 @@ Resources Official Documentation and guide: https://hexdocs.pm/elixir/introducti
       <pubDate>Sat, 02 Mar 2024 10:41:26 +0200</pubDate>
       
       <guid>https://nicofiorini98.github.io/posts/tech/elixir_debug/</guid>
-      <description>Lately, I&amp;rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&amp;rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw asdf, a tool version manager.
-Note that this is not official documentation; it&amp;rsquo;s a simple walkthrough and check the documentation if you have time.
-Installation with asdf Assuming you have installed asdf following the official instruction: Try</description>
+      <description>&lt;p&gt;Lately, I&amp;rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&amp;rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw &lt;a href=&#34;https://asdf-vm.com/&#34;&gt;asdf&lt;/a&gt;, a tool version manager.&lt;/p&gt;
+&lt;p&gt;Note that this is not official documentation; it&amp;rsquo;s a simple walkthrough and check the documentation if you have time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;installation-with-asdf&#34;&gt;Installation with asdf&lt;/h2&gt;
+&lt;p&gt;Assuming you have installed asdf following the official instruction:
+Try&lt;/p&gt;</description>
     </item>
     
   </channel>

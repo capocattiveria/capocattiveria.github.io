@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nicofiorini98.github.io/categories/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/posts/blog/eldros/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/posts/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/posts/blog/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/tags/racconto/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/tags/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
+    <loc>https://nicofiorini98.github.io/categories/tech/</loc>
+    <lastmod>2024-09-27T10:00:26+02:00</lastmod>
+  </url><url>
     <loc>https://nicofiorini98.github.io/tags/all/</loc>
     <lastmod>2024-06-05T10:41:26+02:00</lastmod>
   </url><url>
@@ -17,28 +41,13 @@
     <loc>https://nicofiorini98.github.io/tags/esp32/</loc>
     <lastmod>2024-06-05T10:41:26+02:00</lastmod>
   </url><url>
-    <loc>https://nicofiorini98.github.io/</loc>
-    <lastmod>2024-06-05T10:41:26+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/posts/</loc>
-    <lastmod>2024-06-05T10:41:26+02:00</lastmod>
-  </url><url>
     <loc>https://nicofiorini98.github.io/tags/programming/</loc>
     <lastmod>2024-06-05T10:41:26+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/tags/</loc>
-    <lastmod>2024-06-05T10:41:26+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/categories/</loc>
-    <lastmod>2024-03-07T10:00:26+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini98.github.io/tags/elixir/</loc>
     <lastmod>2024-03-07T10:00:26+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini98.github.io/posts/tech/elixir_how_to_learn/</loc>
-    <lastmod>2024-03-07T10:00:26+02:00</lastmod>
-  </url><url>
-    <loc>https://nicofiorini98.github.io/categories/tech/</loc>
     <lastmod>2024-03-07T10:00:26+02:00</lastmod>
   </url><url>
     <loc>https://nicofiorini98.github.io/posts/tech/</loc>

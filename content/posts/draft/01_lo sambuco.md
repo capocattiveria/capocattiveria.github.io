@@ -11,7 +11,7 @@ slug: ""
 draft: true
 ---
 
-Tratto da una storia vera, alcune frasi sono in dialetto ciociaro, non fate caso agli eventuali errori grammaticali.
+Tratto da una storia vera, alcune frasi sono in dialetto ciociaro, non fate caso agli eventuali errori grammaticali non corretti.
 
 Era una giornata di primavera, ero adolescente, pochi pensieri per la testa,
 e mi bastava andare in giro per essere sereno.

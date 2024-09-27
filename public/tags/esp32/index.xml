@@ -13,8 +13,14 @@
       <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
       <guid>https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/</guid>
-      <description>Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:
-Voltage Bouncing I tackled this issue with Arduino some time ago (pomodoro timer with arduino (ita)), but recently I&amp;rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C++.</description>
+      <description>&lt;p&gt;Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://nicofiorini98.github.io/images/embedded/1_debounce.jpg#center&#34; height=&#34;200px&#34;/&gt; &lt;figcaption&gt;
+            Voltage Bouncing
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I tackled this issue with Arduino some time ago (&lt;a href=&#34;https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/&#34;&gt;pomodoro timer with arduino (ita)&lt;/a&gt;), but recently I&amp;rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C++.&lt;/p&gt;</description>
     </item>
     
   </channel>
