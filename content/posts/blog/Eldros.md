@@ -1,5 +1,5 @@
 ---
-title: "Eldros - Il consumatore del l'immoralità(It)"
+title: "Eldros - Il consumatore d'immoralità(It)"
 date: 2024-09-27T10:00:26+02:00
 author: "Nico Fiorini"
 categories: 
