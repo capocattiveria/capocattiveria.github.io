@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Debounce a button with esp32 | N!co</title>
+<title>Debounce a button with esp32 | CapoCattiveria</title>
 <meta name="keywords" content="All, Embedded, esp32, Programming">
 <meta name="description" content="Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:
 
@@ -16,10 +16,10 @@
 
 I tackled this issue with Arduino some time ago (pomodoro timer with arduino (ita)), but recently I&rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C&#43;&#43;.">
 <meta name="author" content="Nico Fiorini">
-<link rel="canonical" href="https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/">
+<link rel="canonical" href="http://localhost:1313/posts/embedded_journey/1_debounce_button/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.bb6a050c163406c0778e1cfa761971a6cc7f6ee3ed33b78aaa3e07fdf8e30247.css" integrity="sha256-u2oFDBY0BsB3jhz6dhlxpsx/buPtM7eKqj4H/fjjAkc=" rel="preload stylesheet" as="style">
 
-<link rel="alternate" hreflang="en" href="https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/embedded_journey/1_debounce_button/">
 <noscript>
     <style>
         #theme-toggle,
@@ -31,91 +31,8 @@ I tackled this issue with Arduino some time ago (pomodoro timer with arduino (it
 </noscript>
  
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<link rel="icon" href="/logo_tab.png"><meta property="og:title" content="Debounce a button with esp32" />
-<meta property="og:description" content="Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:
+<link rel="icon" href="/logo_tab.png">
 
-     
-            Voltage Bouncing
-        
-
-
-I tackled this issue with Arduino some time ago (pomodoro timer with arduino (ita)), but recently I&rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C&#43;&#43;." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2024-06-05T10:41:26+02:00" />
-<meta property="article:modified_time" content="2024-06-05T10:41:26+02:00" />
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Debounce a button with esp32"/>
-<meta name="twitter:description" content="Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:
-
-     
-            Voltage Bouncing
-        
-
-
-I tackled this issue with Arduino some time ago (pomodoro timer with arduino (ita)), but recently I&rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C&#43;&#43;."/>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position":  1 ,
-      "name": "Posts",
-      "item": "https://nicofiorini98.github.io/posts/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  2 ,
-      "name": "Embedded journey",
-      "item": "https://nicofiorini98.github.io/posts/embedded_journey/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  3 ,
-      "name": "Debounce a button with esp32",
-      "item": "https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Debounce a button with esp32",
-  "name": "Debounce a button with esp32",
-  "description": "Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:\nVoltage Bouncing I tackled this issue with Arduino some time ago (pomodoro timer with arduino (ita)), but recently I\u0026rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C++.\n",
-  "keywords": [
-    "All", "Embedded", "esp32", "Programming"
-  ],
-  "articleBody": "Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:\nVoltage Bouncing I tackled this issue with Arduino some time ago (pomodoro timer with arduino (ita)), but recently I’ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C++.\nTo get started with this board and become familiar with the APIs provided by the framework (esp-idf), I implemented a simple firmware that reads the state change of a button, turning a LED on and off.\nRequirements esp-idf framework installed (Get started with esp32, I use VsCode with esp-idf extension) esp32 with usb cable Breadboard and some wires Led Resistor 220\\(\\Omega\\) Button Schematics Schematics Firmware Development You can find my code in my repository, in the folder debouncing_button. Debouncing Button project\n",
-  "wordCount" : "160",
-  "inLanguage": "en",
-  "datePublished": "2024-06-05T10:41:26+02:00",
-  "dateModified": "2024-06-05T10:41:26+02:00",
-  "author":{
-    "@type": "Person",
-    "name": "Nico Fiorini"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "N!co",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://nicofiorini98.github.io/favicon.ico"
-    }
-  }
-}
-</script>
 </head>
 
 <body class=" dark" id="top">
@@ -129,9 +46,9 @@ I tackled this issue with Arduino some time ago (pomodoro timer with arduino (it
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://nicofiorini98.github.io/" accesskey="h" title="N!co (Alt + H)">
-                <img src="https://nicofiorini98.github.io/assets/image/logo_tab.png" alt="" aria-label="logo"
-                    height="35">N!co</a>
+            <a href="http://localhost:1313/" accesskey="h" title="CapoCattiveria (Alt + H)">
+                <img src="http://localhost:1313/assets/image/logo_tab.png" alt="" aria-label="logo"
+                    height="35">CapoCattiveria</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -159,22 +76,22 @@ I tackled this issue with Arduino some time ago (pomodoro timer with arduino (it
         </div>
         <ul id="menu">
             <li>
-                <a href="https://nicofiorini98.github.io/archives" title="Archive">
+                <a href="http://localhost:1313/archives" title="Archive">
                     <span>Archive</span>
                 </a>
             </li>
             <li>
-                <a href="https://nicofiorini98.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
             <li>
-                <a href="https://nicofiorini98.github.io/tags/" title="Tags">
+                <a href="http://localhost:1313/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
             <li>
-                <a href="https://nicofiorini98.github.io/about/" title="About">
+                <a href="http://localhost:1313/about/" title="About">
                     <span>About</span>
                 </a>
             </li>
@@ -185,7 +102,7 @@ I tackled this issue with Arduino some time ago (pomodoro timer with arduino (it
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://nicofiorini98.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://nicofiorini98.github.io/posts/">Posts</a>&nbsp;»&nbsp;<a href="https://nicofiorini98.github.io/posts/embedded_journey/">Embedded journey</a></div>
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/">Posts</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/embedded_journey/">Embedded journey</a></div>
     <h1 class="post-title">
       Debounce a button with esp32
     </h1>
@@ -245,18 +162,18 @@ I tackled this issue with Arduino some time ago (pomodoro timer with arduino (it
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://nicofiorini98.github.io/tags/all/">All</a></li>
-      <li><a href="https://nicofiorini98.github.io/tags/embedded/">Embedded</a></li>
-      <li><a href="https://nicofiorini98.github.io/tags/esp32/">Esp32</a></li>
-      <li><a href="https://nicofiorini98.github.io/tags/programming/">Programming</a></li>
+      <li><a href="http://localhost:1313/tags/all/">All</a></li>
+      <li><a href="http://localhost:1313/tags/embedded/">Embedded</a></li>
+      <li><a href="http://localhost:1313/tags/esp32/">Esp32</a></li>
+      <li><a href="http://localhost:1313/tags/programming/">Programming</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://nicofiorini98.github.io/posts/blog/eldros/">
+  <a class="prev" href="http://localhost:1313/posts/blog/eldros/">
     <span class="title">« Prev</span>
     <br>
     <span>Eldros - Il consumatore d&#39;immoralità(It)</span>
   </a>
-  <a class="next" href="https://nicofiorini98.github.io/posts/tech/elixir_how_to_learn/">
+  <a class="next" href="http://localhost:1313/posts/tech/elixir_how_to_learn/">
     <span class="title">Next »</span>
     <br>
     <span>Elixir, Useful resources</span>

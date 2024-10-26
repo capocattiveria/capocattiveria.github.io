@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Timer con Arduino (Ita) | N!co</title>
+<title>Timer con Arduino (Ita) | CapoCattiveria</title>
 <meta name="keywords" content="Hardware, Arduino">
 <meta name="description" content="A Handmade Pomodoro Timer with Arduino">
 <meta name="author" content="Nico Fiorini">
-<link rel="canonical" href="https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/">
+<link rel="canonical" href="http://localhost:1313/posts/tech/03_pomodoro_timer/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.bb6a050c163406c0778e1cfa761971a6cc7f6ee3ed33b78aaa3e07fdf8e30247.css" integrity="sha256-u2oFDBY0BsB3jhz6dhlxpsx/buPtM7eKqj4H/fjjAkc=" rel="preload stylesheet" as="style">
 
-<link rel="alternate" hreflang="en" href="https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/tech/03_pomodoro_timer/">
 <noscript>
     <style>
         #theme-toggle,
@@ -24,77 +24,8 @@
 </noscript>
  
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<link rel="icon" href="/logo_tab.png"><meta property="og:title" content="Timer con Arduino (Ita)" />
-<meta property="og:description" content="A Handmade Pomodoro Timer with Arduino" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-09-19T11:04:42+02:00" />
-<meta property="article:modified_time" content="2021-09-19T11:04:42+02:00" />
+<link rel="icon" href="/logo_tab.png">
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Timer con Arduino (Ita)"/>
-<meta name="twitter:description" content="A Handmade Pomodoro Timer with Arduino"/>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position":  1 ,
-      "name": "Posts",
-      "item": "https://nicofiorini98.github.io/posts/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  2 ,
-      "name": "Tech",
-      "item": "https://nicofiorini98.github.io/posts/tech/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  3 ,
-      "name": "Timer con Arduino (Ita)",
-      "item": "https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Timer con Arduino (Ita)",
-  "name": "Timer con Arduino (Ita)",
-  "description": "A Handmade Pomodoro Timer with Arduino",
-  "keywords": [
-    "Hardware", "Arduino"
-  ],
-  "articleBody": "Ho sempre avuto difficoltà a gestire il tempo, non sono capace di fare programmi, ogni volta che provo a farmi un programma non riesco a seguirlo per più di due o tre giorni.\nDi conseguenza ho sempre studiato a sentimento, cioè, se avevo voglia studiavo, altrimenti non studiavo, una tecnica semplice e poco efficace. Stufo della situazione, mi sono ritrovato su You Tube in cerca di tecniche per un’organizzazione efficiente del tempo, e tra le varie cose che non mi piacevano, ne ho trovata una che mi piaceva e che ormai utilizzo da circa 4 mesi, e mi permette di studiare nei periodi più intensi da 8 a 10 ore al giorno, cioè la tecnica del Pomodoro.\nQuesta tecnica consiste nel:\nStudiare per \\(x\\) minuti Riposarsi per \\(y\\) minuti In genere questa tecnica viene descritta con \\(x = 25\\) e \\(y=5\\), però a me non piace, così utilizzo la variante con \\(x=60\\) e \\(y=10\\).\nCi sono varie applicazioni per lo smartphone per utilizzare questa tecnica, però avere un’arma di distrazione vicinomentre studio è controproducente, in più risulta molto macchinoso sbloccare il telefono e far partire il timer.\nHo cercato una soluzione più efficiente, avrei potuto comprare un timer fisico, oppure costruirmi un timer fisico, e da futuro ingegnere informatico (si spera) ho optato per la seconda opzione.\nSono un principiante, quindi ho sfruttato l’occasione per iniziare a giocherellare con Arduino, ed ho visto più o meno cosa potevo fare con quello che avevo a disposizione.\nMateriale utilizzato Arduino nano Lcd display 16x2 3 pulsanti 1 led Potenziometro 10k 3 resistenze 10 k\\(\\Omega\\) (resistenze di pull down, utilizzate per i pulsanti) 2 resistenze 220 \\(\\Omega\\) Sensore di temperatura DHT11 Buzzer 2 basette millefori Link utili Lascio dei link utili in caso volete costruirvi un Pomodoro timer anche voi.\nPer accendere il primo led Installare l’IDE di Arduino Suonare il buzzer Controllare il display Lcd Utilizzare il sensore di temperatura Lascio anche il mio codice sorgente, potete prenderlo come spunto, ma consiglio di non seguirlo, è un po’ incasinato, non ho avuto tempo di migliorarlo, e per far funzionare il tutto dovete rispettare la pedinatura che ho utilizzato io, quindi vi consiglio di cablarlo e programmarvelo da soli. Sono un principiante anche io, quindi se ci sono riuscito io può riuscirci chiunque.\nIl mio codice Risultato finale ",
-  "wordCount" : "385",
-  "inLanguage": "en",
-  "datePublished": "2021-09-19T11:04:42+02:00",
-  "dateModified": "2021-09-19T11:04:42+02:00",
-  "author":{
-    "@type": "Person",
-    "name": "Nico Fiorini"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://nicofiorini98.github.io/posts/tech/03_pomodoro_timer/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "N!co",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://nicofiorini98.github.io/favicon.ico"
-    }
-  }
-}
-</script>
 </head>
 
 <body class=" dark" id="top">
@@ -108,9 +39,9 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://nicofiorini98.github.io/" accesskey="h" title="N!co (Alt + H)">
-                <img src="https://nicofiorini98.github.io/assets/image/logo_tab.png" alt="" aria-label="logo"
-                    height="35">N!co</a>
+            <a href="http://localhost:1313/" accesskey="h" title="CapoCattiveria (Alt + H)">
+                <img src="http://localhost:1313/assets/image/logo_tab.png" alt="" aria-label="logo"
+                    height="35">CapoCattiveria</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -138,22 +69,22 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://nicofiorini98.github.io/archives" title="Archive">
+                <a href="http://localhost:1313/archives" title="Archive">
                     <span>Archive</span>
                 </a>
             </li>
             <li>
-                <a href="https://nicofiorini98.github.io/search/" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
             <li>
-                <a href="https://nicofiorini98.github.io/tags/" title="Tags">
+                <a href="http://localhost:1313/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
             <li>
-                <a href="https://nicofiorini98.github.io/about/" title="About">
+                <a href="http://localhost:1313/about/" title="About">
                     <span>About</span>
                 </a>
             </li>
@@ -164,7 +95,7 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://nicofiorini98.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://nicofiorini98.github.io/posts/">Posts</a>&nbsp;»&nbsp;<a href="https://nicofiorini98.github.io/posts/tech/">Tech</a></div>
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/">Posts</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/tech/">Tech</a></div>
     <h1 class="post-title">
       Timer con Arduino (Ita)
     </h1>
@@ -257,16 +188,16 @@ Sono un principiante anche io, quindi se ci sono riuscito io può riuscirci chiu
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://nicofiorini98.github.io/tags/hardware/">Hardware</a></li>
-      <li><a href="https://nicofiorini98.github.io/tags/arduino/">Arduino</a></li>
+      <li><a href="http://localhost:1313/tags/hardware/">Hardware</a></li>
+      <li><a href="http://localhost:1313/tags/arduino/">Arduino</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://nicofiorini98.github.io/posts/consigli/the_nice_links/">
+  <a class="prev" href="http://localhost:1313/posts/consigli/the_nice_links/">
     <span class="title">« Prev</span>
     <br>
     <span>The nice links</span>
   </a>
-  <a class="next" href="https://nicofiorini98.github.io/posts/books/il-tempo/">
+  <a class="next" href="http://localhost:1313/posts/books/il-tempo/">
     <span class="title">Next »</span>
     <br>
     <span>The Time (Ita)</span>

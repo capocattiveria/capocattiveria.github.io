@@ -1,144 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on N!co</title>
-    <link>https://nicofiorini98.github.io/tags/</link>
-    <description>Recent content in Tags on N!co</description>
+    <title>Tags on CapoCattiveria</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on CapoCattiveria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Sep 2024 10:00:26 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 10:00:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Racconto</title>
-      <link>https://nicofiorini98.github.io/tags/racconto/</link>
+      <link>http://localhost:1313/tags/racconto/</link>
       <pubDate>Fri, 27 Sep 2024 10:00:26 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/racconto/</guid>
+      <guid>http://localhost:1313/tags/racconto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All</title>
-      <link>https://nicofiorini98.github.io/tags/all/</link>
+      <link>http://localhost:1313/tags/all/</link>
       <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/all/</guid>
+      <guid>http://localhost:1313/tags/all/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded</title>
-      <link>https://nicofiorini98.github.io/tags/embedded/</link>
+      <link>http://localhost:1313/tags/embedded/</link>
       <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/embedded/</guid>
+      <guid>http://localhost:1313/tags/embedded/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Esp32</title>
-      <link>https://nicofiorini98.github.io/tags/esp32/</link>
+      <link>http://localhost:1313/tags/esp32/</link>
       <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/esp32/</guid>
+      <guid>http://localhost:1313/tags/esp32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://nicofiorini98.github.io/tags/programming/</link>
+      <link>http://localhost:1313/tags/programming/</link>
       <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/programming/</guid>
+      <guid>http://localhost:1313/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elixir</title>
-      <link>https://nicofiorini98.github.io/tags/elixir/</link>
+      <link>http://localhost:1313/tags/elixir/</link>
       <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/elixir/</guid>
+      <guid>http://localhost:1313/tags/elixir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://nicofiorini98.github.io/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 30 Oct 2023 17:06:51 +0100</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>https://nicofiorini98.github.io/tags/tips/</link>
+      <link>http://localhost:1313/tags/tips/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/tips/</guid>
+      <guid>http://localhost:1313/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arduino</title>
-      <link>https://nicofiorini98.github.io/tags/arduino/</link>
+      <link>http://localhost:1313/tags/arduino/</link>
       <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/arduino/</guid>
+      <guid>http://localhost:1313/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>https://nicofiorini98.github.io/tags/hardware/</link>
+      <link>http://localhost:1313/tags/hardware/</link>
       <pubDate>Sun, 19 Sep 2021 11:04:42 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/hardware/</guid>
+      <guid>http://localhost:1313/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://nicofiorini98.github.io/tags/books/</link>
+      <link>http://localhost:1313/tags/books/</link>
       <pubDate>Thu, 05 Aug 2021 21:21:28 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/books/</guid>
+      <guid>http://localhost:1313/tags/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://nicofiorini98.github.io/tags/javascript/</link>
+      <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/javascript/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>https://nicofiorini98.github.io/tags/math/</link>
+      <link>http://localhost:1313/tags/math/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/math/</guid>
+      <guid>http://localhost:1313/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithm</title>
-      <link>https://nicofiorini98.github.io/tags/algorithm/</link>
+      <link>http://localhost:1313/tags/algorithm/</link>
       <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/algorithm/</guid>
+      <guid>http://localhost:1313/tags/algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italiano</title>
-      <link>https://nicofiorini98.github.io/tags/italiano/</link>
+      <link>http://localhost:1313/tags/italiano/</link>
       <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/tags/italiano/</guid>
+      <guid>http://localhost:1313/tags/italiano/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,6 @@
-baseURL: "https://nicofiorini98.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: N!co 
-paginate: 5
+baseURL: "https://capocattiveria.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: CapoCattiveria
+#pagination.paperSize: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -24,6 +24,7 @@ languages:
           category: categories
           tag: tags
           series: series
+          social: "social"
           # profileMode:
           #   enabled: true
           #   title: PaperMod
@@ -47,45 +48,6 @@ languages:
                   weight: 5 
                 # - name: Discord
                 #   url: https://discord.gg/ahpmTvhVmp
-
-    # fr:
-    #     languageName: ":fr:"
-    #     languageAltTitle: French
-    #     weight: 2
-    #     title: PaperModL2
-    #     taxonomies:
-    #       category: FRcategories
-    #       tag: FRtags
-    #       series: FRseries
-    #     profileMode:
-    #         enabled: true
-    #         title: PaperMod
-    #         imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
-    #         imageTitle: ProfileMode image
-    #         # imageWidth: 120
-    #         # imageHeight: 120
-    #         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-    #         buttons:
-    #             - name: Blog
-    #               url: posts
-    #             - name: Profile Mode
-    #               url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-    #     menu:
-    #         main:
-    #             - name: Archive
-    #               url: archives/
-    #               weight: 5
-    #             - name: FRTags
-    #               url: frtags
-    #               weight: 10
-    #             - name: FRCategories
-    #               url: frcategories
-    #               weight: 10
-    #             - name: FRSeries
-    #               url: frseries
-    #               weight: 10
-    #             - name: NullLink
-    #               url: "#"
 
 outputs:
     home:
@@ -159,7 +121,7 @@ params:
     #     appendFilePath: true # to append file path to Edit link
 
     label:
-        text: "N!co"
+        text: "CapoCattiveria"
         icon: "/assets/image/logo_tab.png"
         iconHeight: 35
 
@@ -225,3 +187,4 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+    

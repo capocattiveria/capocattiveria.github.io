@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Italiano on N!co</title>
-    <link>https://nicofiorini98.github.io/tags/italiano/</link>
-    <description>Recent content in Italiano on N!co</description>
+    <title>Italiano on CapoCattiveria</title>
+    <link>http://localhost:1313/tags/italiano/</link>
+    <description>Recent content in Italiano on CapoCattiveria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2020 10:14:30 +0200</lastBuildDate><atom:link href="https://nicofiorini98.github.io/tags/italiano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2020 10:14:30 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/italiano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grafo Bipartito (Ita)</title>
-      <link>https://nicofiorini98.github.io/posts/tech/01_grafo_bipartito/</link>
+      <link>http://localhost:1313/posts/tech/01_grafo_bipartito/</link>
       <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
       
-      <guid>https://nicofiorini98.github.io/posts/tech/01_grafo_bipartito/</guid>
+      <guid>http://localhost:1313/posts/tech/01_grafo_bipartito/</guid>
       <description>An algorithms exercise</description>
     </item>
     
