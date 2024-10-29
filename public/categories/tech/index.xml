@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on CapoCattiveria</title>
-    <link>http://localhost:1313/categories/tech/</link>
+    <link>https://capocattiveria.github.io/categories/tech/</link>
     <description>Recent content in Tech on CapoCattiveria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Sep 2024 10:00:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 10:00:26 +0200</lastBuildDate><atom:link href="https://capocattiveria.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eldros - Il consumatore d&#39;immoralità(It)</title>
-      <link>http://localhost:1313/posts/blog/eldros/</link>
+      <link>https://capocattiveria.github.io/posts/blog/eldros/</link>
       <pubDate>Fri, 27 Sep 2024 10:00:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/blog/eldros/</guid>
+      <guid>https://capocattiveria.github.io/posts/blog/eldros/</guid>
       <description>&lt;p&gt;Il mondo stava cambiando, proprio come il cielo che si oscura durante un temporale estivo. Eldros stava crescendo, e l&amp;rsquo;umanità intera rischia di evolversi in un unico essere filosoficamente oscuro, sinistro e tetro che attualmente vive nella mia anima.&lt;/p&gt;
 &lt;p&gt;Il mio nome è Samuel, e ho sempre cercato il disagio nel mio tempo libero, il che mi ha portato a fare tante esperienze, sia positive che negative. La mia iperattività, il mio carisma e la mia voglia di avventure mi spingevano a socializzare con chiunque, al punto che ormai nulla riusciva più a sorprendermi. Conoscevo molto bene il lato oscuro del mondo: ladri, assassini, spacciatori&amp;hellip; ero abituato a convivere con questo lato relativamente nascosto della società. Tuttavia, non avrei mai dovuto conoscere quel ragazzo, Nicolai. Nicolai nascondeva qualcosa che non era umano, qualcosa si nascondeva dentro di lui.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Elixir, Useful resources</title>
-      <link>http://localhost:1313/posts/tech/elixir_how_to_learn/</link>
+      <link>https://capocattiveria.github.io/posts/tech/elixir_how_to_learn/</link>
       <pubDate>Thu, 07 Mar 2024 10:00:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/tech/elixir_how_to_learn/</guid>
+      <guid>https://capocattiveria.github.io/posts/tech/elixir_how_to_learn/</guid>
       <description>&lt;p&gt;Lately, I discovered Elixir, and I think the functional programming can scary someone, but once you get in, is a good way to learn a different approach to programming, and Elixir is a modern language based on Erlang VM.&lt;/p&gt;
 &lt;p&gt;I want to share some resources that I found useful for become more comfortable with the language.&lt;/p&gt;
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Elixir install with asdf (Linux)</title>
-      <link>http://localhost:1313/posts/tech/elixir_debug/</link>
+      <link>https://capocattiveria.github.io/posts/tech/elixir_debug/</link>
       <pubDate>Sat, 02 Mar 2024 10:41:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/tech/elixir_debug/</guid>
+      <guid>https://capocattiveria.github.io/posts/tech/elixir_debug/</guid>
       <description>&lt;p&gt;Lately, I&amp;rsquo;ve discovered Elixir, a functional programming language. Its syntax is very clean, and it&amp;rsquo;s quite enjoyable to explore a new paradigm. I believe that every programmer should establish a workflow for familiarizing themselves with a new language and i recommend to install Elixir throw &lt;a href=&#34;https://asdf-vm.com/&#34;&gt;asdf&lt;/a&gt;, a tool version manager.&lt;/p&gt;
 &lt;p&gt;Note that this is not official documentation; it&amp;rsquo;s a simple walkthrough and check the documentation if you have time.&lt;/p&gt;
 &lt;hr&gt;

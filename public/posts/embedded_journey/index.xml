@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Embedded journey on CapoCattiveria</title>
-    <link>http://localhost:1313/posts/embedded_journey/</link>
+    <link>https://capocattiveria.github.io/posts/embedded_journey/</link>
     <description>Recent content in Embedded journey on CapoCattiveria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 10:41:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/embedded_journey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 10:41:26 +0200</lastBuildDate><atom:link href="https://capocattiveria.github.io/posts/embedded_journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debounce a button with esp32</title>
-      <link>http://localhost:1313/posts/embedded_journey/1_debounce_button/</link>
+      <link>https://capocattiveria.github.io/posts/embedded_journey/1_debounce_button/</link>
       <pubDate>Wed, 05 Jun 2024 10:41:26 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/embedded_journey/1_debounce_button/</guid>
+      <guid>https://capocattiveria.github.io/posts/embedded_journey/1_debounce_button/</guid>
       <description>&lt;p&gt;Debouncing a button is a common issue for the effective operation of a button. The physical imperfections of the button lead to voltage bounces when the button is pressed, resulting in a voltage signal that bounces just like the following figure:&lt;/p&gt;
 &lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/embedded/1_debounce.jpg#center&#34; height=&#34;200px&#34;/&gt; &lt;figcaption&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://capocattiveria.github.io/images/embedded/1_debounce.jpg#center&#34; height=&#34;200px&#34;/&gt; &lt;figcaption&gt;
             Voltage Bouncing
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I tackled this issue with Arduino some time ago (&lt;a href=&#34;http://localhost:1313/posts/tech/03_pomodoro_timer/&#34;&gt;pomodoro timer with arduino (ita)&lt;/a&gt;), but recently I&amp;rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C++.&lt;/p&gt;</description>
+&lt;p&gt;I tackled this issue with Arduino some time ago (&lt;a href=&#34;https://capocattiveria.github.io/posts/tech/03_pomodoro_timer/&#34;&gt;pomodoro timer with arduino (ita)&lt;/a&gt;), but recently I&amp;rsquo;ve started experimenting a bit with the ESP32 board and revisited the problem using this framework and programming language C++.&lt;/p&gt;</description>
     </item>
     
   </channel>

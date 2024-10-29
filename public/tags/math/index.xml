@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Math on CapoCattiveria</title>
-    <link>http://localhost:1313/tags/math/</link>
+    <link>https://capocattiveria.github.io/tags/math/</link>
     <description>Recent content in Math on CapoCattiveria</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 12:01:53 +0200</lastBuildDate><atom:link href="https://capocattiveria.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourier series visualization</title>
-      <link>http://localhost:1313/posts/tech/fourier/</link>
+      <link>https://capocattiveria.github.io/posts/tech/fourier/</link>
       <pubDate>Tue, 03 Nov 2020 12:01:53 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/tech/fourier/</guid>
+      <guid>https://capocattiveria.github.io/posts/tech/fourier/</guid>
       <description>A Fourier series visualization with p5.js</description>
     </item>
     
     <item>
       <title>Grafo Bipartito (Ita)</title>
-      <link>http://localhost:1313/posts/tech/01_grafo_bipartito/</link>
+      <link>https://capocattiveria.github.io/posts/tech/01_grafo_bipartito/</link>
       <pubDate>Tue, 04 Aug 2020 10:14:30 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/tech/01_grafo_bipartito/</guid>
+      <guid>https://capocattiveria.github.io/posts/tech/01_grafo_bipartito/</guid>
       <description>An algorithms exercise</description>
     </item>
     
